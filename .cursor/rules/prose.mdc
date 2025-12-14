@@ -1,0 +1,64 @@
+---
+alwaysApply: true
+---
+## Ledall Roll Study Guide
+
+This is a writing project. We are writing a study guide for a historical manuscript, NOT writing code. Utilize the tools you already have available to help the user author this document.
+
+### Formatting Bible
+
+Fluorishes, chases, and counters MUST follow this format:
+
+```markdown
+### FLUORISH/CHASE/COUNTER {n}: "{sequence title}"
+
+**Original Text:** *{original text}*
+
+**Modern English:** {modernization}
+
+#### PRACTITIONER TIPS
+
+{tips}
+
+**Key Points:**
+{key points for success}
+
+**Tactical Purpose:**
+{overall tactical rationale}
+
+#### STEP BREAKDOWN
+
+| Step # | Cut/Action | Footwork | Notes |
+|--------|-----------|----------|-------|
+| {step#} | {cut 1} | {footwork, or empty} | {misc notes} |
+| {step#} | etc... | ... | ... |
+
+
+#### PARTNER DRILL VARIATIONS
+
+{duo drill variations}
+
+#### TRAINING PROGRESSION
+
+{training progression}
+
+#### TACTICAL APPLICATIONS
+
+{tactical lessons}
+
+#### COMMON MISTAKES
+
+{troubleshooting}
+
+#### SOLO PRACTICE ALTERNATIVE
+
+{optional variations for solo training}
+
+#### CULTURAL CONTEXT AND CONNECTIONS
+
+{useful/interesting info about the time period and locale of Ledall, and relationships to other modern longsword concepts; MUST have sources}
+
+#### CITATIONS
+
+{citations referenced in this section}
+```
