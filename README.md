@@ -1,11 +1,10 @@
 # The Ledall Roll - Enhanced Study Guide
 
-<sub>v1.1.0.0</sub>
+<sub>v1.0.0</sub>
 
 <sup>By Dr. Joel Casimir, D.D.S.</sup>
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-
 
 > *A comprehensive, research-backed training manual for the complete English longsword system preserved in British Library Additional MS 39564 (c. 1535-1550)*
 
@@ -126,11 +125,11 @@ See **Appendix B** for a complete 12-week beginner program.
 ```
 ledall-study-guide/
 │
-├── ledall_roll_final_draft.md      # ← THE COMPLETE STUDY GUIDE (START HERE)
+├── ledall_roll_final_draft.md       # ← THE COMPLETE STUDY GUIDE (START HERE)
 │
-├── drafts/                          # Historical development
-│   ├── ledall_guide_draft_01.md    # Earlier simple version
-│   └── ledall_guide_draft_02.md    # Enhanced version with research
+├── drafts/                          # Outdated development drafts
+│   ├── ledall_guide_draft_01.md     # Earlier simple version
+│   └── ledall_guide_draft_02.md     # Enhanced version with research
 │
 ├── sections/                        # Session-by-session work
 │   ├── ledall_roll_session1_chases.md
@@ -140,7 +139,7 @@ ledall-study-guide/
 │   └── ledall_roll_session4_special_techniques.md
 │
 ├── manuscript/                      # Source material
-│   └── ledall_modernization.csv    # Text transcriptions
+│   └── ledall_modernization.csv     # Original manuscript transcript and modernization
 │
 ├── sources.md                       # Complete bibliography
 ├── overview.md                      # Project completion summary

@@ -1,8 +1,11 @@
-# The Ledall Roll - Enhanced Study Guide
-## British Library Additional MS 39564 (c. 1535-1550)
+# Ledall Longsword
+<sup>*A comprehensive study guide for historical longsword, as presented by John Ledall (c. 1535-1550)</sup>
+## British Library Additional MS 39564
 
 *Original Transcription and Modernization by Stevie Thurston*  
 *Research Enhancement and Technical Analysis compiled December 2025*
+
+*by Dr. Joel Casimir, D.D.S.*
 
 ---
 
@@ -46,7 +49,7 @@ The Flourishes represent **solo training forms** similar to Asian kata—structu
 
 ---
 
-### CHAPTER 1: THE FIRST FLOURISH
+### FLUORISH 1: THE FIRST FLOURISH
 
 **Original Text:** *The ſirte fflorysh A quartr fayre be fore you deliueryde wt an hande voydyng bake the ryght fote. Wyth an other quartr wt bothe hands. A Downe ryght ſtroke voydyng bake the lyfte fote standyng ſtyll play iij Rakys lythly Clevyng by thelbowes wt a quartr fayre be fore yow wyth both handys And ij qurters after wt ij turnes A downe ryght ſtroke voydyng bake the lyfte fote Styll ſtanding play ye fayde iij Rakes wt a quartr farye be fore yow And ij quarters after wt ij turnes. A downe ryght ſtroke ſettyng forth ye ryght fote as fore as ye lyffte wt a brokon foyne uppon the lyffte ſyde an other on ye ryght ſyde turnyng ye ſwerde undr ye ryght arme bryng hyt wt ye ſame ſyde wyth a brokyn foyne uppon ye leffte ſyde an other uppon the ryght ſyde turnyng yor ſwerde ſete the poynt ſoffte be fore yow uppon the grownde.*
 
@@ -108,7 +111,7 @@ The Flourishes represent **solo training forms** similar to Asian kata—structu
 
 ---
 
-### CHAPTER 2: THE SECOND FLOURISH
+### FLUORISH 2: THE SECOND FLOURISH
 
 **Original Text:** *The Seconde fflorysh A quartr fayre be fore yow wyth won hand Standyng Å¿tyll Å¿ett In the ryght legge wt a Dragonestalle. then Å¿ete the lyffte hand uppon the Å¿worde Å¿mytyng a qurter fayre be fore yow wyth won hande turnyng yor boddy Å¿ete In yor ryght legge as forwarde as yor lyffte bryng the poynte of the Å¿word ov yor hede Å¿ete hyt down Å¿offtely be fore yow uppon the growne Then Å¿tandyng Å¿tyll pley yor Rakys uppon what Å¿yde you wyll rystyng uppon ye ryght arme then Å¿myte a Downeryght Å¿troke voydyng bake ye lyffte legge bryng after ye ryght legge wt a rake lyfte up ye Å¿werde ov yor hede bryng forwarde the ryght legge as forewarde as ye lyffte pley a brokyn foyne uppon what Å¿yde that you wyll turnyng ye Å¿worde ov the ryght arme Å¿ettyng ye poynte Å¿offtely be fore yow on the grownde*
 
@@ -176,7 +179,7 @@ The Dragon's Tail (*Dragonestalle*) is explicitly named in this flourish. Based 
 
 ---
 
-### CHAPTER 3: THE LAYING DOWN OF THE SWORD
+### FLUORISH 3: THE LAYING DOWN OF THE SWORD
 
 **Original Text:** *The leyyng downe of the Swerde A quartr delvyde fayre be fore you then fayre tur about on yor lyffte Syde Set yn yor ryght legge bryngyng yor Sword over yor hede Sette yt Sofftly downe befure yow on the grounde*
 
@@ -351,7 +354,7 @@ The First Chase addresses the most common attack (descending cut) with the most 
 
 ---
 
-### CHAPTER 5: THE SECOND CHASE
+### CHASE 5: THE SECOND CHASE
 
 **Original Text:** *The Seconde Chace A dowble rownde wyth a bake foyne and a quartr lyghtly delyvyde And hyt be tweys playde hyt wyll bryng you a gayne to yor ground.*
 
@@ -573,7 +576,7 @@ The Third Chase teaches "making your space true"—controlling the distance thro
 
 ---
 
-### CHAPTER 7: THE FOURTH CHASE - "THE BOW-THRUST"
+### CHASE 7: THE FOURTH CHASE - "THE BOW-THRUST"
 
 **Original Text:** *The fourthe Chace callyd ye bowne foyne A dowble rownde forwarde an other bakewarde a downe ryght ſtroke voydyng bake the lyffte legge A bake foyne wt a bowfoyne voydyng bake wt the ryght legge lythtly ſmyte a quarter.*
 
@@ -706,7 +709,7 @@ Brandon Heslop notes: "We may never know the exact original meaning, but functio
 
 ---
 
-### CHAPTER 8: THE FIFTH CHASE - "AT THE ROUNDS"
+### CHASE 8: THE FIFTH CHASE - "AT THE ROUNDS"
 
 **Original Text:** *The fyffte Chace callyd att ye rwondys To doble rowndys forwarde and ther folowes Contrarye all to yon man and yff you play hyt a gayne hyt wyll bryng you to yor grounde*
 
@@ -887,7 +890,7 @@ Similar to modern:
 [7] Silver, G. (1599). *Paradoxes of Defence*.
 
 ---
-### CHAPTER 9: THE SIXTH CHASE - "THE TUMBLING CHASE"
+### CHASE 9: THE SIXTH CHASE - "THE TUMBLING CHASE"
 
 **Original Text:** *The sixte Chace callyd ye tublyng chace To doble rownds forewarde wt as many bakewarde all uppon the lyffte fote lythtly delyveryde/ then tumble forewarde rounde as a ball that ys to ſay wythe a Down ryght stroke ſete forewarde the ryghte fote bryngyng the ſword ov youre hede voyde bake the lyffte fote wt an other downe ryght stroke folowyde wt the ryght fote then bryng bake the fame fote wt a bake foyne Sete In the lyffte fote and ſmyte back a qurter.*
 
@@ -1345,7 +1348,7 @@ The Seventh Chase is **psychological warfare**:
 
 ---
 
-### CHAPTER 11: THE EIGHTH CHASE - "THE SPRING"
+### CHASE 11: THE EIGHTH CHASE - "THE SPRING"
 
 **Original Text:** *The Viijth Chace callyde the fypryng a quartr upon a man that Comes faft forwarde to yow then paffe forewarde wyth yor lyffte legge fmyte a nother quartr paffe wyth yor ryght legge fpryng att hys knee then voyde bake wyth the fame fote Smyte a quartr and be att your ſtope.*
 
@@ -1514,7 +1517,7 @@ This is **active distance management** rather than passive retreat.
 
 ---
 
-### CHAPTER 12: THE NINTH CHASE - "THE FOUR POINTS"
+### CHASE 12: THE NINTH CHASE - "THE FOUR POINTS"
 
 **Original Text:** *The ixth Chace callyd ye four poyntf A Downe ryght stroke voydyng bake ye lyffte legge sodenly pley a rake folowede wyth ye ryght legge stondyng styll pley a quartr fayre be fore you then ſete In the lyffte legge and ſmyte bake a quartr.*
 
@@ -1992,7 +1995,7 @@ The Tenth Chase teaches distance control through active retreat.
 
 ---
 
-### CHAPTER 14: THE ELEVENTH CHASE - "THE 3 POINTS" (VERSION A)
+### CHASE 14: THE ELEVENTH CHASE - "THE 3 POINTS" (VERSION A)
 
 **Original Text:** *The xjth Chace callyd ye iij poyntf A downe ryght ſtroke voydyng bake ye lyffte fote ſodenly pley a Rake foloede wyth ye ryght legge then ſtandyng ſtyll caſte owte a full ſpryng at hys face wt a quartr and an other voyde*
 
@@ -2514,7 +2517,7 @@ Later wrote about "false guards"—positions that appear one thing but enable an
 [7] Silver, G. (1599). *Paradoxes of Defence*.
 
 ---
-### CHAPTER 16: THE THIRTEENTH CHASE - "THE GETTING CHASE"
+### CHASE 16: THE THIRTEENTH CHASE - "THE GETTING CHASE"
 
 **Original Text:** *The xiijth Chace callyde the gettyng Chace a Sprynge upon a man In the lyffte Syde then paffe ov to the ryght Syde wyth an other Sprynge then paffe agayne to the lyffte Syde wyth a rake then voyde bake wyth a quartr*
 
@@ -2981,7 +2984,7 @@ Counters exploit true times—opponent committed to proffer attack, can't easily
 [3] Heslop, B. & Bradak, B. (2010). *Lessons on the English Longsword*. Paladin Press.  
 [5] Kay, R. (2020). "English Longsword for German/Italian Longsword HEMA Students." *HEMA Enthusiast*.  
 [7] Silver, G. (1599). *Paradoxes of Defence*.
-### CHAPTER 18: THE SECOND COUNTER - "THE FULL-SPRING"
+### COUNTER 18: THE SECOND COUNTER - "THE FULL-SPRING"
 
 **Original Text:** *The Seconde callyde the full Sprynge a Proffer a rake wyth a quartr. then paffe fprynge wt yor hand by yor bonwarde forwarde and be att yor Stoppe*
 
@@ -3441,7 +3444,7 @@ Practice both to understand:
 
 ---
 
-### CHAPTER 20: THE FOURTH COUNTER - "THE RABETT WITH A DOWN-RIGHT STROKE"
+### COUNTER 20: THE FOURTH COUNTER - "THE RABETT WITH A DOWN-RIGHT STROKE"
 
 **Original Text:** *The iiijth callyd the Rabett wt a Downe ryght Stroke A pfur A rake wt a quartr ſett In your lyffte legge wt a rabett then ſett In youre ryght legge wt a downeryght Stroke wt bothe handſ wyth a foyne and a quartr wt an other voyde be att yor ſtoppe*
 
@@ -3735,7 +3738,7 @@ Rabett must genuinely displace. If blade doesn't move, your follow-up attacks wo
 
 ---
 
-### CHAPTER 21: THE FIFTH COUNTER - "THE 3 QUARTERS"
+### COUNTER 21: THE FIFTH COUNTER - "THE 3 QUARTERS"
 
 **Original Text:** *The Vth callyd the iij quarters A pfur a rake wyth a quarter full ſtanding ſtylle pley an other voyde a bove hys hede wt an other at hys legge then voyde bake the ryght legge wt an other quarter and be att youre ſtoppe.*
 
@@ -4233,7 +4236,7 @@ Diagonal cuts appear across martial traditions because they work. The English cr
 
 ---
 
-### CHAPTER 23: THE SEVENTH COUNTER - "THE DOWN-RIGHT STROKE"
+### COUNTER 23: THE SEVENTH COUNTER - "THE DOWN-RIGHT STROKE"
 
 **Original Text:** *The Vijth poynte callyd ye Downeryght ſtroke A pfur A rake wyth a quarter an other a voyde a Downeryght Stroke folowyde wyth the ryght legge then ſtandyng ſtyll lythly play a fore foyne wt a quarter and an other voyde be att youre stope*
 
@@ -4840,7 +4843,7 @@ Start simple, add complexity gradually, culminate in sophisticated sequences lik
 
 ---
 
-### CHAPTER 25: THE NINTH COUNTER - "THE DOUBLE ROUND WITH 2 THRUSTS"
+### COUNTER 25: THE NINTH COUNTER - "THE DOUBLE ROUND WITH 2 THRUSTS"
 
 **Original Text:** *The ixth callyde ye Doble rounde wt ij Foynes A double rounde forwarde wt a foyne at hys face An other att hys bely Standyng ſtyll pley a quarter full wt an other voyde be att yor ſtope.*
 
@@ -5283,7 +5286,7 @@ Possible that English and German fencers shared techniques, or convergent evolut
 
 ---
 
-### CHAPTER 27: THE ELEVENTH COUNTER - "THE SHORT SPRING WITH 2 THRUSTS FOLLOWING"
+### COUNTER 27: THE ELEVENTH COUNTER - "THE SHORT SPRING WITH 2 THRUSTS FOLLOWING"
 
 **Original Text:** *The xjth callyde ye ſhort ſpryng wt ij foynes folowyng A profur A rake wt a quarter full An other voyde lyghtly pley a ſhort ſpryng voydyng bake the lyffte legge ſette handſ uppon the ſwerde ſettyng up a foyne by the lyffte ſhuldr bryng hyt forth be fore you ſete in yor lyffte legge wt a ſuche an other foyne att hys face folowyde wyth ye ryght legge lyghtly pley a quarter full wt an other voyde And be att yor ſtoppe*
 
@@ -5637,7 +5640,7 @@ If partner frequently guesses right:
 
 ---
 
-### CHAPTER 29: THE THIRTEENTH COUNTER - "THE PROFFER"
+### COUNTER 29: THE THIRTEENTH COUNTER - "THE PROFFER"
 
 **Original Text:** *The xiijth callyd ye pfur A pfur a rake wt a full quartr lyghtly ſett In ye lyffte legge wt a rabett other els ſett in the ryght legge wt a full quartr and an other voyde and be att yor ſtoppe*
 
@@ -5691,7 +5694,7 @@ If partner frequently guesses right:
 
 ---
 
-### CHAPTER 30: THE FOURTEENTH COUNTER - "THE FULL-SPRING WITH A QUARTER"
+### COUNTER 30: THE FOURTEENTH COUNTER - "THE FULL-SPRING WITH A QUARTER"
 
 **Original Text:** *The xiiijth callyde ye full ſpryng wt a quartr A profur a rake A full quartr lyghtly caſte owte a full ſhort ſpryng att hys face ſtondyng ſtyll wt a full quartr an other voyde be att youre ſtoppe*
 
@@ -5772,7 +5775,7 @@ If partner frequently guesses right:
 
 ---
 
-### CHAPTER 32: THE SIXTEENTH COUNTER - "THE 3 QUARTERS"
+### COUNTER 32: THE SIXTEENTH COUNTER - "THE 3 QUARTERS"
 
 **Original Text:** *The xvjth callyd ye iij quarterf A pfur A rake wt a full qurter ſtondyng ſtyll pley an other voyde A bove hys hede wt an other att hys legge then voyde bake ye ryght legge wt An other quartr and be att yor Stoppe*
 
@@ -5860,7 +5863,7 @@ If partner frequently guesses right:
 
 ---
 
-### CHAPTER 34: THE EIGHTEENTH COUNTER - "THE DOUBLE RABETTS"
+### COUNTER 34: THE EIGHTEENTH COUNTER - "THE DOUBLE RABETTS"
 
 **Original Text:** *The xviijth callyde ye Duble rabettſ. A profur a rake wt a full quartr lyghtly ſett in the lyffte legge wt a rabett Stondyng ſtyll lyghtly pley an other rabett wyth a full ſpryng att hys legge other els ſett in ye ryght legge wt a Down ryght ſtroke att hys hede and a full quartr an other A voyde and be att youre Stoppe*
 
@@ -5951,7 +5954,7 @@ If partner frequently guesses right:
 
 ---
 
-### CHAPTER 36: THE TWENTIETH COUNTER - "THE BROKEN QUARTER WITH A THRUST"
+### COUNTER 36: THE TWENTIETH COUNTER - "THE BROKEN QUARTER WITH A THRUST"
 
 **Original Text:** *The xxth callyde ye brokyn qrtr wt a foyne A profur a Rake lyfftyng up yor ſwerde as ye wo???? ſodonly wt yor lyfft honde thruſte for the a foyne to hys ????? folloyde wt ye ???????????? then ſett in ye ryght legge wt a quarter an other after and be at youre Stoppe*
 
@@ -6370,7 +6373,7 @@ Like covering retreat with suppressing fire—continuous threat during withdrawa
 [3] Heslop, B. & Bradak, B. (2010). *Lessons on the English Longsword*. Paladin Press.  
 [5] Kay, R. (2020). "English Longsword for German/Italian Longsword HEMA Students." *HEMA Enthusiast*.
 
-### CHAPTER 38: THE TWENTY-SECOND COUNTER - "THE LARGE PROFFER WITH A RABETT"
+### COUNTER 38: THE TWENTY-SECOND COUNTER - "THE LARGE PROFFER WITH A RABETT"
 
 **Original Text:** *The xxijth callyd ye Large proffer wt a rabett and the for quarter. Void back ye ryght legge Smyte rabett att ye same hand playng ye rabett then Standyng Styll breke ye same rabett Smyte a full Spryng at hys legge wt a full quarter and an other quarter A voyde be att yor Stoppe*
 

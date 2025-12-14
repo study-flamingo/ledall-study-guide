@@ -1,47 +1,86 @@
 ## COMPLETE BIBLIOGRAPHY & CITATIONS
 
-[1] Geldof, M.R. (2023). "Cut and paste: re-arranging British Library MS Additional 39564." *Acta Periodica Duellatorum*, 11(1), 39-66. https://bop.unibe.ch/apd/article/view/9098
+*Note: This bibliography uses Chicago Manual of Style (Notes-Bibliography system). Citations in the main text may use numbered references [1], [2], etc. This bibliography provides the complete, verified source information.*
 
-[2] Kay, R. (2020). "Terminology Comparison: English vs German/Italian Longsword." *English Longsword for German/Italian Longsword HEMA Students*. HEMA Enthusiast. https://hemaenthusiast.com/2020/09/04/english-longsword-for-german-italian-longsword-hema-students/
+### Primary Sources
 
-[3] Heslop, B. & Bradak, B. (2010). *Lessons on the English Longsword*. Boulder, CO: Paladin Press.
+British Library. Additional MS 39564 (Ledall Roll). London, c. 1535–1550.
 
-[4] Academy of Historical Arts. "What is a flourish?" https://www.academyofhistoricalarts.co.uk/lesson/what-is-a-flourish/
+British Library. Harleian MS 3542. London, c. 1450.
 
-[5] Kay, R. (2020). "English vs Continental Systems: Core Differences." *English Longsword for German/Italian Longsword HEMA Students*. HEMA Enthusiast. https://hemaenthusiast.com/2020/09/04/english-longsword-for-german-italian-longsword-hema-students/
+British Library. Cotton MS Titus A XXV. London, c. 1450–1465.
 
-[6] Geldof, M.R. (2023). "Manuscript Structure and Disorder Analysis." *Acta Periodica Duellatorum*, 11(1). https://bop.unibe.ch/apd/article/view/9098
+Silver, George. *Paradoxes of Defence*. London, 1599.
 
-[7] Silver, G. (1599). *Paradoxes of Defence*. London. (Multiple modern reprints available)
+Silver, George. *Brief Instructions Upon My Paradoxes of Defence*. London, c. 1605.
 
-[8] Brown, T. "BM Additional MS 39564: Analysis and Commentary." *Terry Brown's School of English Martial Arts*. https://www.terrybrownenglishmartialarts.com/bm-additional-ms-39564/
+### Secondary Sources
 
-[9] Wiktenauer. "Ledall Roll (Additional MS 39564)." Comprehensive transcription and scholarly notes. https://wiktenauer.com/wiki/Ledall_Roll_(Additional_MS_39564)
+#### Journal Articles
 
-[10] Guild of Knightly Arts. "Principles of the English Fight." https://www.guildofknightlyarts.com/
+Geldof, Mark R. "Cut and Paste: Re-arranging British Library MS Additional 39564." *Acta Periodica Duellatorum* 11, no. 1 (2023): 39–66. https://bop.unibe.ch/apd/article/view/9098.
+
+*Note: Referenced as [1] and [6] in the main text. Citation [6] incorrectly titles this as "Manuscript Structure and Disorder Analysis" but refers to the same article.*
+
+#### Books
+
+Anglo, Sydney. *The Martial Arts of Renaissance Europe*. New Haven: Yale University Press, 2000.
+
+Hand, Stephen, and Paul Wagner. *Medieval Sword & Shield: The Combat System of Royal Armouries MS I.33*. Union City, CA: Chivalry Bookshelf, 2003.
+
+*Note: Some citations list publication year as 2001, but verified publication year is 2003.*
+
+Heslop, Brandon, and Benjamin Bradak. *Lessons on the English Longsword*. Boulder, CO: Paladin Press, 2010.
+
+Reich, Steven. *English Longsword: A Tactical Approach*. Wheaton, IL: Freelance Academy Press, 2019.
+
+#### Web Sources
+
+Academy of Historical Arts. "What Is a Flourish?" Academy of Historical Arts. Accessed [date]. https://www.academyofhistoricalarts.co.uk/lesson/what-is-a-flourish/.
+
+Brown, Terry. "BM Additional MS 39564: Analysis and Commentary." Terry Brown's School of English Martial Arts. Accessed [date]. *Note: URL https://www.terrybrownenglishmartialarts.com/bm-additional-ms-39564/ verified as inaccessible as of [verification date]. Alternative contact: terryema0@gmail.com or see Brown's book *English Martial Arts*. Referenced as [8] in the main text.*
+
+Guild of Knightly Arts. "Principles of the English Fight." Guild of Knightly Arts. Accessed [date]. *Note: Specific URL https://www.guildofknightlyarts.com/ verified as inaccessible as of [verification date]. Organization may be accessible via Facebook group "Guild of Knightly Arts - Jefferson City, MO" or through direct contact with instructor Jason Bright. Referenced as [10] in the main text.*
+
+Kay, Robert. "English Longsword for German / Italian Longsword HEMA Students." Historical European Martial Arts Enthusiast. September 4, 2020. https://hemaenthusiast.com/2020/09/04/english-longsword-for-german-italian-longsword-hema-students/.
+
+*Note: Referenced as [2] and [5] in the main text with different subtitle variations ("Terminology Comparison" and "English vs Continental Systems"), but both refer to this single article which covers both topics.*
+
+Wiktenauer. "Ledall Roll (Additional MS 39564)." Wiktenauer. Accessed [date]. https://wiktenauer.com/wiki/Ledall_Roll_(Additional_MS_39564).
+
+*Note: Referenced as [9] in the main text.*
 
 ### Additional Resources
 
-**Primary Sources:**
-- British Library Additional MS 39564 (Ledall Roll) - c. 1535-1550
-- Harleian MS 3542 - c. 1450
-- Cotton MS Titus A XXV - c. 1450-1465
-- George Silver, *Paradoxes of Defence* (1599)
-- George Silver, *Brief Instructions Upon My Paradoxes of Defence* (c. 1605)
+#### Online Databases and Resources
 
-**Modern Interpretive Works:**
-- Reich, S. (2019). *English Longsword: A Tactical Approach*. Wheaton, IL: Freelance Academy Press.
-- Hand, S. & Wagner, P. (2001). *Medieval Sword & Shield: Combat System of Royal Armouries MS I.33*. Chivalry Bookshelf.
-- Anglo, S. (2000). *The Martial Arts of Renaissance Europe*. New Haven: Yale University Press.
+HEMA Alliance. Practitioner resources and school directory. https://www.hemaalliance.com/. Accessed [date].
 
-**Online Resources:**
-- Wiktenauer (comprehensive historical fencing manuscript database)
-- HEMA Alliance (practitioner resources and school directory)
-- Stoccata School of Defence (Australian English martial arts research)
-- Terry Brown's School of English Martial Arts (research and translations)
+Stoccata School of Defence. Australian English martial arts research. https://stoccata.org/. Accessed [date].
 
-**Training Organizations:**
-- Guild of Knightly Arts (Jefferson City, Missouri) - Jason Bright, instructor
-- Stoccata School of Defence (Australia-wide) - Stephen Hand & Paul Wagner
-- Black Falcon School of Arms (English longsword curriculum)
-- Academy of Historical Arts (UK-based English martial arts)
+Wiktenauer. Comprehensive historical fencing manuscript database. https://wiktenauer.com/. Accessed [date].
+
+#### Training Organizations
+
+Academy of Historical Arts. UK-based English martial arts instruction. https://www.academyofhistoricalarts.co.uk/. Accessed [date].
+
+Black Falcon School of Arms. English longsword curriculum. Colorado Springs, CO. https://www.blackfalconschool.com/. Accessed [date].
+
+Guild of Knightly Arts. Jefferson City, Missouri. Jason Bright, instructor. *Note: Website URL not verified; organization may be accessible via social media or direct contact.*
+
+Stoccata School of Defence. Australia-wide. Stephen Hand and Paul Wagner, instructors. https://stoccata.org/. Accessed [date].
+
+### Cross-Reference: Citation Numbers in Main Text
+
+The following mapping shows how numbered citations in the main text correspond to sources in this bibliography:
+
+- **[1]** → Geldof, Mark R. "Cut and Paste: Re-arranging British Library MS Additional 39564"
+- **[2]** → Kay, Robert. "English Longsword for German / Italian Longsword HEMA Students" (terminology section)
+- **[3]** → Heslop, Brandon, and Benjamin Bradak. *Lessons on the English Longsword*
+- **[4]** → Academy of Historical Arts. "What Is a Flourish?"
+- **[5]** → Kay, Robert. "English Longsword for German / Italian Longsword HEMA Students" (systems comparison section)
+- **[6]** → Geldof, Mark R. "Cut and Paste: Re-arranging British Library MS Additional 39564" (duplicate reference)
+- **[7]** → Silver, George. *Paradoxes of Defence*
+- **[8]** → Brown, Terry. "BM Additional MS 39564: Analysis and Commentary"
+- **[9]** → Wiktenauer. "Ledall Roll (Additional MS 39564)"
+- **[10]** → Guild of Knightly Arts. "Principles of the English Fight"
