@@ -252,7 +252,7 @@ The phrase "and if it be twice played it will bring you to your ground" appears 
 
 ---
 
-### CHAPTER 4: THE FIRST CHASE
+### CHASE 4: THE FIRST CHASE
 
 **Original Text:** *The Fyrste Chace he that firſte Smytes wyth a hauke or a quarter ov he Swerd Smyte ov yor Swerde to the grounde and foyne att ye ov op'yng and yf he Sett that Smyte upon the Swerd as ſoone as ye Swerd tu Smyte of the tother Syde and after yt by all one*
 
@@ -457,7 +457,7 @@ While primarily a movement drill, the Second Chase teaches:
 
 ---
 
-### CHAPTER 6: THE THIRD CHASE
+### CHASE 6: THE THIRD CHASE
 
 **Original Text:** *The thyrde Chace A dowble rownde forwarde an other bakwarde A downe ryght stroke voydyng bake ye lyffte legge a bake foyne voydyng bake the ryght legge folowyng In wyth the lyffte legge ſmyte a quartr bakewarde And yff hyt be tweys plade gyt wyll bryng you to yor grounde*
 
@@ -1120,7 +1120,7 @@ The Sixth Chase may represent integration of acrobatic training with sword work�
 [5] Kay, R. (2020). "English Longsword for German/Italian Longsword HEMA Students." *HEMA Enthusiast*.
 
 ---
-### CHAPTER 10: THE SEVENTH CHASE
+### CHASE 10: THE SEVENTH CHASE
 
 **Original Text:** *The sevyneth Chace A full stroke a for foyne folowed wt a quartr pleyng a brokyn foyne uppon the ryght ſyde an other on the lyffte ſyde thruſte forth a for foyne folowyde wt ij quarters wt the ſayde broken foynes playde on every ſyde thruſte forthe a for foyne at hys face voydyng bake wythe ij quarters*
 
@@ -1756,7 +1756,7 @@ The Four Points is simple by design—minimal actions, maximum effectiveness.
 
 ---
 
-### CHAPTER 13: THE TENTH CHASE - "THE FIVE POINTS"
+### CHASE 13: THE TENTH CHASE - "THE FIVE POINTS"
 
 **Original Text:** *The xth Chace callyd ye fyve poyntf A Downe ryght ſtroke voydyng bake the lyffte fote Sodenly pley a rake folowed wyth the ryght fote then voyde bake the lyffte legge wt an other Downe ryght ſtroke And pley a bake foyne voydyng bake the ryght legge ſtep In wt the lyffte legge and ſmyte bake a quartr*
 
@@ -2737,7 +2737,7 @@ Most Counters follow this pattern:
 5. **Return to Stop** (defensive guard)
 
 ---
-### CHAPTER 17: THE FIRST POINT OF THE COUNTER
+### COUNTER 17: THE FIRST POINT OF THE COUNTER
 
 **Original Text:** *The Firſte poynte off ye Counter A pfur a rake wt a quartr full ſtandyng ſtyll pley an other voyde above hys hede wyth an other at hys legge then voyde bake the ryght legge wt an other quartr And be att yor ſtoppe*
 
@@ -3179,7 +3179,7 @@ The Ledall Roll's extensive use of proffers suggests this was core English tacti
 
 ---
 
-### CHAPTER 19: THE THIRD COUNTER - "THE SHORT-SPRING, WITH A FALLING-STROKE"
+### COUNTER 19: THE THIRD COUNTER - "THE SHORT-SPRING, WITH A FALLING-STROKE"
 
 **Original Text:** *The thyrde Counter callyd ye ſhort ſpryng wt a fallyng ſtroke A pfur a rake wt a full quartr lythly ſett In ye lyffte legge wt the lyffte honde put yor ſwerde be hynde ye ſhudyr and throſte owte a full ſpryng att hys face wt a quartr and an other voyde and be att yor ſtoppe*
 
@@ -3958,7 +3958,7 @@ The Fifth Counter can be used as **moving meditation**:
 
 ---
 
-### CHAPTER 22: THE SIXTH COUNTER - "THE CROSS RAKE"
+### COUNTER 22: THE SIXTH COUNTER - "THE CROSS RAKE"
 
 **Original Text:** *The Vjth Poynte callyde the cros Rake A pfur a cros rake wt a foyne at hys face wt a quarter full and an other A voyde be at youre ſtoppe*
 
@@ -4513,7 +4513,7 @@ Techniques aren't inherently offensive or defensive—context determines purpose
 
 ---
 
-### CHAPTER 24: THE EIGHTH COUNTER - "THE RABETT WITH A DOWN-RIGHT STROKE"
+### COUNTER 24: THE EIGHTH COUNTER - "THE RABETT WITH A DOWN-RIGHT STROKE"
 
 **Original Text:** *The viijth callyde the rabett wt a Downe ryght Stroke A pfur a rake wt a quarter A nother A voyde a Downe ryght stroke folowyde wt the ryght legge wt a fore foyne ſettyng In the lyffte legge lyththly pley a rabett then ſett In ye ryght legge wt a Downryght Stroke a foyne wt a quarter an other a voyde be att yor ſtoppe.*
 
@@ -5080,7 +5080,7 @@ Text explicitly says "standing still" before quarter.
 #### PARTNER DRILL: "HIGH-LOW REACTION"
 
 **Setup:**
-### CHAPTER 26: THE TENTH COUNTER - "THE SNATCH"
+### COUNTER 26: THE TENTH COUNTER - "THE SNATCH"
 
 **Original Text:** *The xth callyde the Snatche A profur a rake wyth a quarter full voydyng bake the ryght legge wt ye lyffte honde ſmyte A ſnatche then voyde bake yor lyffte legge And be att youre Stoppe.*
 
@@ -5594,7 +5594,7 @@ If partner frequently guesses right:
 [5] Kay, R. (2020). "English Longsword for German/Italian Longsword HEMA Students." *HEMA Enthusiast*.
 
 ---
-### CHAPTER 28: THE TWELFTH COUNTER - "THE RABETT WITH A SPRING"
+### COUNTER 28: THE TWELFTH COUNTER - "THE RABETT WITH A SPRING"
 
 **Original Text:** *The xijth callyd ye Rabett wt a ſpryng A pfur a rake wt a full quartr lyghtly ſett in the lyffte legge wt a rabett ſtondyng ſtyll lyghtly pley a full ſpryng att hys legge wt a full quartr An other voyde be att youre Stoppe*
 
@@ -5735,7 +5735,7 @@ If partner frequently guesses right:
 
 ---
 
-### CHAPTER 31: THE FIFTEENTH COUNTER - "THE SPRING AT THE LEG WITH 2 QUARTERS"
+### COUNTER 31: THE FIFTEENTH COUNTER - "THE SPRING AT THE LEG WITH 2 QUARTERS"
 
 **Original Text:** *The xvth callyde ye ſpryng att ye legge wt ij quarters A pfur a Rake A full quarter lyghtly ſett In ye lyffte legge wt a ſpryng att hys legge then ſett in ye ryght legge wt a full quartr and an other voyde be att youre ſtoppe*
 
@@ -5815,7 +5815,7 @@ If partner frequently guesses right:
 
 ---
 
-### CHAPTER 33: THE SEVENTEENTH COUNTER - "THE DOUBLE SPRING"
+### COUNTER 33: THE SEVENTEENTH COUNTER - "THE DOUBLE SPRING"
 
 **Original Text:** *The xvijth callyd ye Duble ſpryng A profur a rake a full qurter wt an other a voyde lyghtly caſte owte a full ſhorte ſpryng att hys face ſtandyng ſtyll when ye ſwerde comyth a bowte off yor hede ?????? hytt wt yor ryght hand att yor ryght shuldyr. then lyghtly ſmyte a full ſpryng wt a full quarter. an other a voyde be att youre ſtoppe*
 
@@ -5913,7 +5913,7 @@ If partner frequently guesses right:
 
 ---
 
-### CHAPTER 35: THE NINETEENTH COUNTER - "THE CROSS RAKES WITH A QUARTER"
+### COUNTER 35: THE NINETEENTH COUNTER - "THE CROSS RAKES WITH A QUARTER"
 
 **Original Text:** *The xixth callyde ye cros Rakſ wt a qurtr A profur folowede wt as many cros Rakſ as ye wyll then ſodonly to hys elbowe ſmyte a full quarter wt an other voyde and be att yor stoppe*
 
@@ -6162,7 +6162,7 @@ Partner should guess wrong ~50% of time. If they guess right more often, your fa
 [5] Kay, R. (2020). "English Longsword for German/Italian Longsword HEMA Students." *HEMA Enthusiast*.
 
 ---
-### CHAPTER 37: THE TWENTY-FIRST COUNTER - "THE BROKEN THRUST WITH A SPRING"
+### COUNTER 37: THE TWENTY-FIRST COUNTER - "THE BROKEN THRUST WITH A SPRING"
 
 **Original Text:** *The xxith callyde ye ba?? ??????????? ye fpryng A profur a rake wt ye full quarter ???? ??? fett in yor lyffte legge wt ye lyffte honde bryng ?? ?????????? ye ???????? of youre hede as ye wyll ????????? rabett then standyng styll brek ye ????? rabett ?????? ?????????? ???????? fmyte a full fryng at hys legge wt a full ?????????? ??????? and be att yor stoppe*
 
@@ -6620,7 +6620,7 @@ George Silver later wrote: "The mind defeats the body before the blade defeats t
 
 ---
 
-### CHAPTER 39: THE TWENTY-THIRD COUNTER - "THE FACING, WITH THE SPRING"
+### COUNTER 39: THE TWENTY-THIRD COUNTER - "THE FACING, WITH THE SPRING"
 
 **Original Text:** *The xxiijth callyde the facyng wt ye ſpryng A pfur a rake wt a full quartr ſett in ye lyffte legge wt a rabett then voyde bake ye ſame legge and ſmyte a full ſpryng att hys legge other els ſette in ye ryght legge wt a full quartr and an other voyde and be att yor ſtoppe*
 
