@@ -2,21 +2,22 @@
 
 ## The Problem
 
-The term **"void"** in the Ledall Roll has been inconsistently and sometimes incorrectly interpreted throughout our study guide. This document provides the correct definitions based on the primary source and outlines the systematic corrections needed.
+The term **"void"** in the Ledall Roll has been incorrectly interpreted as a feint or body evasion throughout our study guide. This document provides the correct definition based on the primary source and outlines the systematic corrections needed.
 
 ---
 
-## Correct Definitions
+## Correct Definition
 
-### 1. VOID (as Footwork): "Void Back [Leg/Foot]"
+### VOID = Passing Step Backwards (Always Footwork)
 
 **Original Examples:**
 - "voydyng bake the ryght fote" → "voiding back the right foot"
 - "voydyng bake ye lyffte legge" → "voiding back the left leg"
 - "then voyde bake the fame legge" → "then void back the same leg"
+- "pley a voyde quartr a boue hys hede" → "play a void quarter above his head"
 
 **Correct Meaning:**
-A **passing step backwards** where one foot/leg passes behind the other, creating retreat distance.
+A **passing step backwards** where one foot/leg passes behind the other, creating retreat distance. When combined with a cut, it means performing that cut WHILE retreating.
 
 **Mechanics:**
 - The named leg/foot passes *behind* the body
@@ -29,52 +30,43 @@ A **passing step backwards** where one foot/leg passes behind the other, creatin
 **NOT:**
 - ❌ A feint
 - ❌ Body evasion (ducking/dodging)
-- ❌ A deceptive action
+- ❌ A deceptive blade action
+- ❌ An "empty" cut that misses
 
 ---
 
-### 2. VOID (as Blade Action): "Void [Above His Head / At His Leg]"
+### Key Phrase Interpretations
 
-**Original Examples:**
-- "pley an other voyde a bove hys hede wt an other at hys legge" 
-  → "play another void above his head with another at his leg"
-- "ploy a voyde quartr a boue hys hede"
-  → "play a void quarter above his head"
+| Phrase | Correct Meaning |
+|--------|----------------|
+| "void back the right leg" | Pass right leg backwards (retreat) |
+| "void quarter above his head" | Quarter cut aimed high, delivered WHILE stepping back |
+| "void above his head with another at his leg" | Cut high while voiding, then cut low |
+| "another void" | Another passing step backwards |
+| "quartering and voiding" | Attacking while retreating |
 
-**Correct Meaning:**
-A **passing blade movement** where the sword moves through space *without making contact*—an "empty" or "void" cut that passes above/past the target.
-
-**Mechanics:**
-- Sword passes over/past the opponent (e.g., above their head)
-- Does NOT make contact with opponent
-- Creates opening for follow-up attack (to leg, etc.)
-- May draw opponent's guard upward, exposing low line
-
-**German Equivalent:** Similar to *Fehler* (failer)—a deliberate miss
-
-**NOT:**
-- ❌ The practitioner evading/ducking
-- ❌ Body movement by the practitioner
-- ❌ A defensive action by you
+This embodies the English principle: **attack while retreating** for safety. The void creates distance while the cut maintains offensive pressure.
 
 ---
 
 ## Error Categories in Current Draft
 
-### Category A: Step Table Corrections
+### Category A: Step Table Corrections (Footwork Column)
 
 **Current Error Pattern:**
 ```
 | 4 | Void above head | Stand | Defensive evasion high |
 ```
 
+**Problem:** Footwork says "Stand" but void IS footwork (stepping back). Notes say "evasion" which is wrong.
+
 **Correct:**
 ```
-| 4 | Void above head | Stand | Passing blade movement (sword passes over opponent's head) |
+| 4 | Quarter above head | Void (pass leg back) | High cut while retreating |
 ```
 
 **Files Affected:**
-- `ledall_roll_session2_counters_1-9.md` (First Counter, Fifth Counter, Sixth Counter)
+- `ledall_roll_session2_counters_1-9.md` (First Counter, Fifth Counter)
 - `ledall_roll_session3_counters_11-21.md` (Sixteenth Counter)
 - `ledall_study_guide_manuscript_final.md`
 
@@ -85,22 +77,21 @@ A **passing blade movement** where the sword moves through space *without making
 **Current Error Pattern:**
 > "The high-low combination (void above head, attack leg) forces opponent to defend multiple lines simultaneously."
 
-**Issue:** This is actually correct in principle, but the explanation implies YOU are evading. The void is YOUR SWORD passing over THEIR head.
+**Issue:** The description implies "void" is a separate evasive action. The void is footwork happening DURING the cuts.
 
 **Correct Interpretation:**
-> "The high-low combination (void above opponent's head, then attack leg) works because your blade's high pass draws their guard upward, exposing the leg for immediate follow-up."
+> "The high-low combination (cut above head while voiding back, then cut to leg) works because you attack high, retreat for safety, then exploit the opening low."
 
 ---
 
-### Category C: "Another Void" = "Another Passing Step Back"
+### Category C: "Another Void" = Correct!
 
-**Current Error Pattern:**
 Many step tables show:
 ```
 | 6 | Void | Step back | Create distance |
 ```
 
-**This is actually correct!** The term "another void" at the end of Counters means "another passing step backwards."
+**This is correct!** The term "another void" at the end of Counters means another passing step backwards.
 
 **Example from manuscript:**
 "wt a full quarter and an other voyde and be att youre ſtoppe"
@@ -110,45 +101,59 @@ This means: execute a quarter cut, then pass a foot backwards, then assume your 
 
 ---
 
+### Category D: Misidentifying Void as Blade Action
+
+**Current Error Pattern:**
+Treating "void above his head" as if the BLADE is doing the voiding (like a feint or empty cut).
+
+**Correct Understanding:**
+The FEET do the voiding (stepping back). The cut happens to be aimed "above his head" during that retreat.
+
+---
+
 ## Specific Corrections by File
 
-### 1. First Counter (Chapter 20)
+### 1. First Counter (Chapter 20) — MAJOR REWRITE
 
-**Current Step 4:**
+**Current Step Table (Wrong):**
 ```
 | 4 | Void above head | Stand | Defensive evasion high |
+| 5 | Attack to leg | Stand | Low-line strike |
 ```
 
-**Corrected Step 4:**
+**Corrected Step Table:**
 ```
-| 4 | Void above head | Stand | Sword passes over opponent's head (drawing guard high) |
+| 4 | Cut above head | Void (step back) | High cut while retreating |
+| 5 | Cut to leg | Stand or advance | Low-line follow-up |
 ```
 
-**Current Practitioner Tip:**
+**Current Practitioner Tip (Wrong):**
 > "The high-low combination (void above head, attack leg) forces opponent to defend multiple lines simultaneously."
 
 **Corrected Tip:**
-> "The high-low combination (sword passing above opponent's head, then attacking the leg) draws their guard upward before exploiting the exposed low line."
+> "The high-low combination works by cutting high while stepping back (voiding), then immediately attacking low. The retreat creates safety while the cuts maintain pressure."
 
 ---
 
 ### 2. Fifth Counter (Chapter 25)
 
-Same corrections as First Counter.
+Same corrections as First Counter—high-low with voiding footwork.
 
 ---
 
 ### 3. Sixteenth Counter (Session 3)
 
-**Current Step 4:**
+**Current Step 4 (Wrong):**
 ```
 | 4 | Void above head | **Stand still** | High evasion |
 ```
 
 **Corrected Step 4:**
 ```
-| 4 | Void above head | **Stand still** | Sword passes above opponent's head |
+| 4 | Cut above head | Void (step back) | High cut during retreat |
 ```
+
+Note: "Standing still" may refer to a PAUSE, with void happening in subsequent step.
 
 ---
 
@@ -157,53 +162,63 @@ Same corrections as First Counter.
 **Original Text:** "ploy a voyde quartr a boue hys hede"
 → "play a void quarter above his head"
 
-**Meaning:** Execute a quarter cut that passes OVER the opponent's head without hitting (a void/empty quarter).
+**Correct Meaning:** Execute a quarter cut aimed above his head WHILE stepping backwards (voiding).
 
-This creates the "wave" motion described in the technique.
+This creates the "wave" motion described—the sword arcs high during the retreat.
 
 ---
 
 ## Terminology Reference Table
 
-| Original Term | Meaning | Notes Column Should Say |
-|--------------|---------|------------------------|
-| "voiding back the right leg" | Pass right leg backwards | Retreat with right leg passing behind |
-| "voiding back the left foot" | Pass left foot backwards | Retreat with left leg passing behind |
-| "void back the same leg" | Pass that leg backwards again | Repeat retreat on same side |
-| "another void" | Another passing step back | Additional retreat step |
-| "void above his head" | Sword passes over opponent's head | Blade movement, not body evasion |
-| "void quarter above his head" | Quarter cut passing over opponent | Deliberate miss creating opening |
+| Original Term | Cut/Action | Footwork | Notes |
+|--------------|-----------|----------|-------|
+| "voiding back the right leg" | (with cut) | Pass right leg back | Retreat + attack simultaneously |
+| "voiding back the left foot" | (with cut) | Pass left foot back | Retreat + attack simultaneously |
+| "void back the same leg" | (with cut) | Same leg passes back again | Repeat retreat |
+| "another void" | — | Pass a foot back | Additional retreat step |
+| "void above his head" | Cut aimed high | Void (step back) | High cut during retreat |
+| "void quarter above his head" | Quarter cut high | Void (step back) | Quarter delivered while retreating |
+| "void at his leg" | Cut aimed low | Void (step back) | Low cut during retreat |
 
 ---
 
 ## Citations for Corrections
 
 **George Silver (1599), *Paradoxes of Defence*:**
-Silver uses similar terminology when describing yielding footwork—stepping backward while maintaining offensive pressure.
+Silver uses similar terminology when describing yielding footwork—stepping backward while maintaining offensive pressure. The English principle of "quartering and voiding" (attacking while retreating) is central to Silver's defensive philosophy.
 
 **Robert Kay (2020), HEMA Enthusiast:**
-> "English void terminology refers to retreating footwork in most contexts, similar to the German 'weichen.'"
+> "English void terminology refers to retreating footwork, similar to the German *weichen*. The void creates distance while the practitioner maintains offensive pressure."
 
 **Brandon Heslop & Benjamin Bradak (2010), *Lessons on the English Longsword*:**
-> "The void is fundamentally a passing step backward, creating distance while often delivering a cut."
+> "The void is fundamentally a passing step backward, creating distance while delivering a cut. This is the English approach to safe distance management."
 
 ---
 
 ## Summary of Changes Required
 
-1. **First Counter:** Fix "void above head" description (blade action, not body evasion)
-2. **Fifth Counter:** Same correction
-3. **Sixteenth Counter:** Same correction
-4. **Dragon's Tail:** Clarify "void quarter" as empty/passing cut
-5. **All step tables:** Ensure "Void" footwork column shows "Pass [leg] backward" or "Step back with [leg]"
-6. **All Notes columns:** Remove "evasion" language when referring to voids; clarify as either footwork (retreat) or blade (passing movement)
-7. **Practitioner tips:** Update high-low combination explanations to clarify the sword (not body) makes the void movement
+### Step Table Corrections:
+1. **Move "Void" from Cut/Action column to Footwork column** where it describes retreating
+2. **Remove "evasion" language** from Notes columns
+3. **Clarify that cuts happen DURING the void** (e.g., "Quarter above head" + "Void (step back)")
+
+### Practitioner Tips Corrections:
+1. **Clarify void = footwork** throughout all explanations
+2. **Fix high-low combination explanations** to show void is retreat, not evasion
+3. **Remove any references to void as feint** or deceptive blade action
+
+### Specific Sections:
+1. **First Counter:** Major rewrite of step table and tips
+2. **Fifth Counter:** Same corrections
+3. **Sixteenth Counter:** Fix step table
+4. **Dragon's Tail:** Clarify "void quarter" = quarter during retreat
+5. **All "Spring during void" sections:** Clarify as "attack while retreating"
 
 ---
 
 ## Execution Order
 
-1. Create this correction document ✓
+1. ✅ Create this correction document
 2. Edit `ledall_study_guide_manuscript_final.md` (main document)
 3. Edit `ledall_roll_session1_chases.md`
 4. Edit `ledall_roll_session2_counters_1-9.md`
@@ -216,4 +231,4 @@ Silver uses similar terminology when describing yielding footwork—stepping bac
 ---
 
 *Document created: December 15, 2025*
-*Status: APPROVED FOR EXECUTION*
+*Status: PLAN READY - AWAITING APPROVAL TO EXECUTE*
