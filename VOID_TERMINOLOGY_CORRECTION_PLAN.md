@@ -216,17 +216,72 @@ Silver uses similar terminology when describing yielding footwork—stepping bac
 
 ---
 
+## COMPREHENSIVE ERROR INVENTORY
+
+### Critical Step Table Errors (Void in Wrong Column)
+
+| Location | Current Error | Correction Needed |
+|----------|---------------|-------------------|
+| First Counter (session2, main) | `Void above head \| Stand \| Defensive evasion high` | Move void to footwork, change notes |
+| Fifth Counter (session2, main) | `Void above head \| **Stand still** \| High defensive evasion` | Same fix |
+| Sixteenth Counter (session3, main) | `Void above head \| **Stand still** \| High evasion` | Same fix |
+| Dragon's Tail (session4, special) | `Void quarter above head \| Stand` | Clarify as quarter during retreat |
+
+### Practitioner Tips Errors
+
+| File | Error Text | Issue |
+|------|-----------|-------|
+| session2/main | "High void forces reaction" | Implies void does something active |
+| session2/main | "Void draws opponent forward" | Implies void is bait, not footwork |
+| session2/main | "Mid-void baits their chase" | Same issue |
+| session2/main | "void above head (defensive)" | Implies body evasion |
+| session2/main | "high-low combination (void above head, attack leg)" | Implies void is blade action |
+
+### Section Headers/Explanatory Text Errors
+
+| File | Error | Correction |
+|------|-------|------------|
+| session4_final, main | "#### SPRING DURING VOID" | Rename to "#### ATTACKING WHILE RETREATING" |
+| session4_final, main | "Spring during void = attacking while retreating" | Clarify void IS the retreat |
+| session1, main | "Opponent commits → You void opposite (create opening)" | Clarify void = retreat, not counter-move |
+
+### Correct Usages (DO NOT CHANGE)
+
+These are correctly interpreted and should remain:
+- `| 6 | Void | Step back | Create distance |` ✓
+- "Void creates distance" ✓
+- "attacking while retreating" ✓
+- "voiding back the left leg" ✓
+- "another void" = another passing step back ✓
+
+---
+
+## EDIT COUNTS BY FILE
+
+| File | Estimated Edits |
+|------|----------------|
+| `ledall_study_guide_manuscript_final.md` | ~15-20 edits |
+| `ledall_roll_session2_counters_1-9.md` | ~10-12 edits |
+| `ledall_roll_session3_counters_11-21.md` | ~5-6 edits |
+| `ledall_roll_session4_final.md` | ~4-5 edits |
+| `ledall_roll_session4_special_techniques.md` | ~2-3 edits |
+| `ledall_roll_session1_chases.md` | ~2-3 edits |
+| `drafts/ledall_guide_draft_02.md` | ~8-10 edits |
+| **TOTAL** | ~45-60 edits |
+
+---
+
 ## Execution Order
 
 1. ✅ Create this correction document
-2. Edit `ledall_study_guide_manuscript_final.md` (main document)
-3. Edit `ledall_roll_session1_chases.md`
-4. Edit `ledall_roll_session2_counters_1-9.md`
-5. Edit `ledall_roll_session3_counters_11-21.md`
-6. Edit `ledall_roll_session4_final.md`
-7. Edit `ledall_roll_session4_special_techniques.md`
-8. Edit draft files if still relevant
-9. Final review for consistency
+2. Edit `ledall_roll_session2_counters_1-9.md` (First & Fifth Counter - core errors)
+3. Edit `ledall_roll_session3_counters_11-21.md` (Sixteenth Counter)
+4. Edit `ledall_roll_session4_final.md` (Twenty-Third Counter, Spring During Void)
+5. Edit `ledall_roll_session4_special_techniques.md` (Dragon's Tail)
+6. Edit `ledall_roll_session1_chases.md` (minor fixes)
+7. Edit `ledall_study_guide_manuscript_final.md` (main document - duplicate content)
+8. Edit `drafts/ledall_guide_draft_02.md` (if still relevant)
+9. Final grep verification for remaining errors
 
 ---
 
