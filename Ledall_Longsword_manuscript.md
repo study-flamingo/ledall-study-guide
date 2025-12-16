@@ -1,6 +1,6 @@
 # Ledall Longsword
 <sup>*A comprehensive study guide for historical longsword, as presented by John Ledall (c. 1535-1550)</sup>
-## British Library Additional MS 39564
+## *British Library Additional MS 39564*
 
 *Original Transcription and Modernization by Stevie Thurston*  
 *Research Enhancement and Technical Analysis compiled December 2025*
@@ -9,9 +9,105 @@
 
 ---
 
-## ABOUT THIS MANUSCRIPT
+## ABOUT THE LEDALL ROLL MANUSCRIPT
 
 The Ledall Roll stands as the **most technically comprehensive of only three surviving Medieval English martial arts manuscripts**. Dating to approximately 1535-1550, this scroll-format manual (vellum roll measuring 152.5mm × 622mm) contains 38-41 plays documenting a distinctive Tudor-era fighting system emphasizing displacement, one-handed techniques, and structured training sequences.
+
+- [Ledall Longsword](#ledall-longsword)
+  - [*British Library Additional MS 39564*](#british-library-additional-ms-39564)
+  - [ABOUT THE LEDALL ROLL MANUSCRIPT](#about-the-ledall-roll-manuscript)
+    - [Historical Significance](#historical-significance)
+    - [What Makes English Longsword Different](#what-makes-english-longsword-different)
+    - [Key Terminology](#key-terminology)
+  - [PART I: FLOURISHES](#part-i-flourishes)
+    - [FLUORISH 1: THE FIRST FLOURISH](#fluorish-1-the-first-flourish)
+    - [FLUORISH 2: THE SECOND FLOURISH](#fluorish-2-the-second-flourish)
+    - [FLUORISH 3: THE LAYING DOWN OF THE SWORD](#fluorish-3-the-laying-down-of-the-sword)
+  - [PART II: THE CHASES](#part-ii-the-chases)
+    - [Chase Structure \& Purpose](#chase-structure--purpose)
+    - [CHASE 4: THE FIRST CHASE](#chase-4-the-first-chase)
+    - [CHASE 5: THE SECOND CHASE](#chase-5-the-second-chase)
+    - [CHASE 6: THE THIRD CHASE](#chase-6-the-third-chase)
+    - [CHASE 7: THE FOURTH CHASE - "THE BOW-THRUST"](#chase-7-the-fourth-chase---the-bow-thrust)
+    - [CHASE 8: THE FIFTH CHASE - "AT THE ROUNDS"](#chase-8-the-fifth-chase---at-the-rounds)
+    - [CHASE 9: THE SIXTH CHASE - "THE TUMBLING CHASE"](#chase-9-the-sixth-chase---the-tumbling-chase)
+    - [CHASE 10: THE SEVENTH CHASE](#chase-10-the-seventh-chase)
+    - [CHASE 11: THE EIGHTH CHASE - "THE SPRING"](#chase-11-the-eighth-chase---the-spring)
+    - [CHASE 12: THE NINTH CHASE - "THE FOUR POINTS"](#chase-12-the-ninth-chase---the-four-points)
+    - [CHASE 13: THE TENTH CHASE - "THE FIVE POINTS"](#chase-13-the-tenth-chase---the-five-points)
+    - [CHASE 14: THE ELEVENTH CHASE - "THE 3 POINTS" (VERSION A)](#chase-14-the-eleventh-chase---the-3-points-version-a)
+    - [CHAPTER 15: THE TWELFTH CHASE - "THE 3 POINTS" (VERSION B)](#chapter-15-the-twelfth-chase---the-3-points-version-b)
+    - [CHASE 16: THE THIRTEENTH CHASE - "THE GETTING CHASE"](#chase-16-the-thirteenth-chase---the-getting-chase)
+  - [PART III: THE COUNTERS (POINTS)](#part-iii-the-counters-points)
+    - [Counter Structure](#counter-structure)
+    - [COUNTER 17: THE FIRST POINT OF THE COUNTER](#counter-17-the-first-point-of-the-counter)
+    - [COUNTER 18: THE SECOND COUNTER - "THE FULL-SPRING"](#counter-18-the-second-counter---the-full-spring)
+    - [COUNTER 19: THE THIRD COUNTER - "THE SHORT-SPRING, WITH A FALLING-STROKE"](#counter-19-the-third-counter---the-short-spring-with-a-falling-stroke)
+    - [COUNTER 20: THE FOURTH COUNTER - "THE RABETT WITH A DOWN-RIGHT STROKE"](#counter-20-the-fourth-counter---the-rabett-with-a-down-right-stroke)
+    - [COUNTER 21: THE FIFTH COUNTER - "THE 3 QUARTERS"](#counter-21-the-fifth-counter---the-3-quarters)
+    - [COUNTER 22: THE SIXTH COUNTER - "THE CROSS RAKE"](#counter-22-the-sixth-counter---the-cross-rake)
+    - [COUNTER 23: THE SEVENTH COUNTER - "THE DOWN-RIGHT STROKE"](#counter-23-the-seventh-counter---the-down-right-stroke)
+    - [COUNTER 24: THE EIGHTH COUNTER - "THE RABETT WITH A DOWN-RIGHT STROKE"](#counter-24-the-eighth-counter---the-rabett-with-a-down-right-stroke)
+    - [COUNTER 25: THE NINTH COUNTER - "THE DOUBLE ROUND WITH 2 THRUSTS"](#counter-25-the-ninth-counter---the-double-round-with-2-thrusts)
+    - [COUNTER 26: THE TENTH COUNTER - "THE SNATCH"](#counter-26-the-tenth-counter---the-snatch)
+    - [COUNTER 27: THE ELEVENTH COUNTER - "THE SHORT SPRING WITH 2 THRUSTS FOLLOWING"](#counter-27-the-eleventh-counter---the-short-spring-with-2-thrusts-following)
+    - [COUNTER 28: THE TWELFTH COUNTER - "THE RABETT WITH A SPRING"](#counter-28-the-twelfth-counter---the-rabett-with-a-spring)
+    - [COUNTER 29: THE THIRTEENTH COUNTER - "THE PROFFER"](#counter-29-the-thirteenth-counter---the-proffer)
+    - [COUNTER 30: THE FOURTEENTH COUNTER - "THE FULL-SPRING WITH A QUARTER"](#counter-30-the-fourteenth-counter---the-full-spring-with-a-quarter)
+    - [COUNTER 31: THE FIFTEENTH COUNTER - "THE SPRING AT THE LEG WITH 2 QUARTERS"](#counter-31-the-fifteenth-counter---the-spring-at-the-leg-with-2-quarters)
+    - [COUNTER 32: THE SIXTEENTH COUNTER - "THE 3 QUARTERS"](#counter-32-the-sixteenth-counter---the-3-quarters)
+    - [COUNTER 33: THE SEVENTEENTH COUNTER - "THE DOUBLE SPRING"](#counter-33-the-seventeenth-counter---the-double-spring)
+    - [COUNTER 34: THE EIGHTEENTH COUNTER - "THE DOUBLE RABETTS"](#counter-34-the-eighteenth-counter---the-double-rabetts)
+    - [COUNTER 35: THE NINETEENTH COUNTER - "THE CROSS RAKES WITH A QUARTER"](#counter-35-the-nineteenth-counter---the-cross-rakes-with-a-quarter)
+    - [COUNTER 36: THE TWENTIETH COUNTER - "THE BROKEN QUARTER WITH A THRUST"](#counter-36-the-twentieth-counter---the-broken-quarter-with-a-thrust)
+    - [COUNTER 37: THE TWENTY-FIRST COUNTER - "THE BROKEN THRUST WITH A SPRING"](#counter-37-the-twenty-first-counter---the-broken-thrust-with-a-spring)
+    - [COUNTER 38: THE TWENTY-SECOND COUNTER - "THE LARGE PROFFER WITH A RABETT"](#counter-38-the-twenty-second-counter---the-large-proffer-with-a-rabett)
+    - [COUNTER 39: THE TWENTY-THIRD COUNTER - "THE FACING, WITH THE SPRING"](#counter-39-the-twenty-third-counter---the-facing-with-the-spring)
+  - [PART IV: SPECIAL TECHNIQUES](#part-iv-special-techniques)
+    - [CHAPTER 40: THE STOPPING RABETT](#chapter-40-the-stopping-rabett)
+    - [CHAPTER 41: THE DRAGON'S TAIL WITH THE PENDANT](#chapter-41-the-dragons-tail-with-the-pendant)
+  - [CONCLUSION: THE COMPLETE LEDALL ROLL](#conclusion-the-complete-ledall-roll)
+    - [YOU HAVE COMPLETED THE STUDY GUIDE](#you-have-completed-the-study-guide)
+    - [WHAT YOU NOW POSSESS](#what-you-now-possess)
+    - [HOW TO CONTINUE YOUR TRAINING](#how-to-continue-your-training)
+    - [FINAL WORDS](#final-words)
+  - [APPENDIX A: COMPLETE GLOSSARY](#appendix-a-complete-glossary)
+    - [A](#a)
+    - [B](#b)
+    - [C](#c)
+    - [D](#d)
+    - [F](#f)
+    - [G](#g)
+    - [H](#h)
+    - [L](#l)
+    - [O](#o)
+    - [P](#p)
+    - [Q](#q)
+    - [R](#r)
+    - [S](#s)
+    - [T](#t)
+    - [U](#u)
+    - [V](#v)
+  - [APPENDIX B: TRAINING ADVICE](#appendix-b-training-advice)
+    - [Core Training Principles](#core-training-principles)
+    - [Progression Philosophy](#progression-philosophy)
+    - [Solo vs. Partner Training](#solo-vs-partner-training)
+    - [Equipment and Safety](#equipment-and-safety)
+    - [Long-Term Development Path](#long-term-development-path)
+    - [Training Logs and Assessment](#training-logs-and-assessment)
+  - [APPENDIX C: TECHNIQUES TROUBLESHOOTING](#appendix-c-techniques-troubleshooting)
+    - [Grip Issues](#grip-issues)
+    - [Footwork Problems](#footwork-problems)
+    - [Timing and Flow](#timing-and-flow)
+    - [Power vs. Precision](#power-vs-precision)
+    - [Distance Management](#distance-management)
+    - [Deception and Tactics](#deception-and-tactics)
+    - [Partner Drill Issues](#partner-drill-issues)
+    - [Physical Issues](#physical-issues)
+    - [Understanding Issues](#understanding-issues)
+  - [COMPLETE BIBLIOGRAPHY \& CITATIONS](#complete-bibliography--citations)
+    - [Additional Resources](#additional-resources)
+
 
 ### Historical Significance
 
@@ -107,7 +203,7 @@ The Flourishes represent **solo training forms** similar to Asian kata—structu
 
 #### CITATIONS
 
-[4] Academy of Historical Arts. "What is a flourish?" https://www.academyofhistoricalarts.co.uk/lesson/what-is-a-flourish/
+[4] Academy of Historical Arts. "What is a flourish?" <https://www.academyofhistoricalarts.co.uk/lesson/what-is-a-flourish/>
 
 ---
 
@@ -175,7 +271,7 @@ The Dragon's Tail (*Dragonestalle*) is explicitly named in this flourish. Based 
 #### CITATIONS
 
 [3] Heslop, B. & Bradak, B. (2010). *Lessons on the English Longsword*. Paladin Press.  
-[5] Kay, R. (2020). "English Longsword for German/Italian Longsword HEMA Students." *HEMA Enthusiast*. https://hemaenthusiast.com/2020/09/04/english-longsword-for-german-italian-longsword-hema-students/
+[5] Kay, R. (2020). "English Longsword for German/Italian Longsword HEMA Students." *HEMA Enthusiast*. <https://hemaenthusiast.com/2020/09/04/english-longsword-for-german-italian-longsword-hema-students/>
 
 ---
 
@@ -231,13 +327,13 @@ The Academy of Historical Arts notes: "Ending forms properly was as important as
 
 #### CITATIONS
 
-[4] Academy of Historical Arts. "What is a flourish?" https://www.academyofhistoricalarts.co.uk/lesson/what-is-a-flourish/
+[4] Academy of Historical Arts. "What is a flourish?" <https://www.academyofhistoricalarts.co.uk/lesson/what-is-a-flourish/>
 
 ---
 
 ## PART II: THE CHASES
 
-The thirteen Chases form the **technical core** of the English longsword system. As Brandon Heslop notes, these are "structured sequences—possibly designed as partner drills or solo forms—that progressively teach combinations."[3] 
+The thirteen Chases form the **technical core** of the English longsword system. As Brandon Heslop notes, these are "structured sequences—possibly designed as partner drills or solo forms—that progressively teach combinations."[3]
 
 Unlike the Flourishes (solo warm-ups) or the Counters (defensive responses), the Chases appear to be **choreographed training sequences** that could be practiced alone or with a partner. Many modern practitioners interpret them as two-person drills where both fencers perform the same sequence in turn.
 
@@ -3175,7 +3271,7 @@ The Ledall Roll's extensive use of proffers suggests this was core English tacti
 
 [3] Heslop, B. & Bradak, B. (2010). *Lessons on the English Longsword*. Paladin Press.  
 [7] Silver, G. (1599). *Paradoxes of Defence*. Reprinted in various modern editions.  
-[8] Brown, T. "BM Additional MS 39564." *Terry Brown's School of English Martial Arts*. https://www.terrybrownenglishmartialarts.com/bm-additional-ms-39564/
+[8] Brown, T. "BM Additional MS 39564." *Terry Brown's School of English Martial Arts*. <https://www.terrybrownenglishmartialarts.com/bm-additional-ms-39564/>
 
 ---
 
@@ -7284,23 +7380,6 @@ Develop instant recognition and precise timing under pressure.
 
 ### YOU HAVE COMPLETED THE STUDY GUIDE
 
-**All 41 Plays Documented:**
-
-**Part I: Flourishes (3)**
-✅ The First Flourish  
-✅ The Second Flourish  
-✅ The Laying Down of the Sword
-
-**Part II: The Chases (13)**
-✅ First through Thirteenth Chase
-
-**Part III: The Counters (23)**
-✅ First through Twenty-Third Counter
-
-**Part IV: Special Techniques (2)**
-✅ The Stopping Rabett  
-✅ The Dragon's Tail with the Pendant
-
 ---
 
 ### WHAT YOU NOW POSSESS
@@ -7394,166 +7473,499 @@ You now possess knowledge that:
 
 ---
 
-## APPENDIX A: QUICK TERMINOLOGY REFERENCE
+## APPENDIX A: COMPLETE GLOSSARY
 
-**GUARDS (WARDS):**
-- **Roebuck** - Point forward at head height (like German *Ochs*)
-- **Hawk** - Raised position, ready to throw cuts (like German *Vom Tag*)
-- **Stop Guard** - Hands near waist, point threatening (like German *Pflug*)
-- **Boar** - Sword low, point down (like German *Alber*)
-- **Dragon's Tail** - Sword behind/beside, point down (like Italian *Coda Lunga*)
-- **Pendant** - Sword hanging behind or beside body
-
-**CUTS:**
-- **Quarter** - Diagonal descending cut (like German *Oberhau*)
-- **Downright** - Vertical descending cut
-- **Contrary Hawk** - Rising cut (like German *Unterhau*)
-- **Rake** - Quick wrist cut to hands/arms (like Italian *Stromazzone*)
-- **Rabett** - Countercut against opponent's weapon
-- **Snatch** - Snap cut from pendant guard
-
-**THRUSTS:**
-- **Foin** (foyne) - Any thrust
-- **Broken Foin** - Thrust maintaining blade contact
-- **Back-thrust** - Thrust while moving backward
-- **Bow-thrust** - Specialized thrust (interpretation varies)
-- **Spring** - One-handed thrust/cut, grip near pommel for reach
-
-**FOOTWORK:**
-- **Void** - Step backward
-- **Pass** - One foot passes in front of other
-- **Set in** - Advance specific leg forward
-- **Traverse** - Move offline or diagonal
-
-**TACTICAL TERMS:**
-- **Proffer** - Feinted opening to draw attack
-- **Stop** - Defensive guard position
-- **Double Round** - Two circular motions
-- **Lightly/Lithely** - Quick, not powerful
-- **Fair** - Properly, correctly
+This glossary provides comprehensive definitions for all terminology used in the Ledall Roll, organized alphabetically. German and Italian equivalents are provided where applicable to assist practitioners familiar with continental traditions.
 
 ---
 
-## APPENDIX B: TRAINING SCHEDULE TEMPLATE
+### A
 
-### 12-Week Beginner Program
+**Alber** — German term. See *Boar*.
 
-**Weeks 1-2: Foundations**
-- Day 1: First Flourish (steps 1-7)
-- Day 2: First Flourish (steps 8-19)
-- Day 3: Basic guards practice
-- Day 4: Spring technique drills
-- Day 5: First Flourish complete
-- Day 6: Rest or review
-- Day 7: Rest
+### B
 
-**Weeks 3-4: Second Flourish & First Chase**
-- Day 1: Second Flourish introduction
-- Day 2: Dragon's Tail practice
-- Day 3: First Chase introduction
-- Day 4: First Chase partner drill
-- Day 5: Combine Flourishes + First Chase
-- Day 6: Free practice
-- Day 7: Rest
+**Back-thrust** — A thrust executed while moving backward or retreating. Combines defensive footwork with offensive action, embodying the English principle of "attacking while retreating." Used extensively in Chases to maintain threat during withdrawal.
 
-**Weeks 5-6: Expanding Chase Repertoire**
-- Day 1: Second Chase
-- Day 2: Third Chase (footwork focus)
-- Day 3: Review all three Chases
-- Day 4: Partner drills
-- Day 5: Full session: Flourish → Chases
-- Day 6: Conditioning + review
-- Day 7: Rest
+**Boar** — Guard position with sword held low, point angled downward toward the ground. Creates a defensive barrier while inviting high attacks. Equivalent to German *Alber*. Rarely mentioned explicitly in Ledall but implied in several low-line positions.
 
-**Weeks 7-8: Introduction to Counters**
-- Day 1: Proffer practice
-- Day 2: Second Counter (Full-Spring)
-- Day 3: Partner proffer drills
-- Day 4: Tenth Counter (Snatch)
-- Day 5: Pendant guard practice
-- Day 6: Review all material
-- Day 7: Rest
+**Bow-thrust** — Specialized thrust technique unique to English sources. Interpretation varies among practitioners:
+- *Half-sword thrust:* Grip shortened with hand on blade for close-range work
+- *Arcing thrust:* Thrust that curves around opponent's defense
+- *Drawing thrust:* Related to pulling/drawing motion
+First appears in the Fourth Chase. Experiment with multiple interpretations to find what works.
 
-**Weeks 9-10: Integration**
-- Day 1: Fourth Chase (Bow-Thrust)
-- Day 2: Eighth Chase (Spring)
-- Day 3: Free flowing Chases
-- Day 4: Counter practice
-- Day 5: Light sparring with techniques
-- Day 6: Video review + refinement
-- Day 7: Rest
+**Broken Foin/Broken Thrust** — A partial or feinted thrust that maintains blade contact with the opponent's weapon. Used to probe defenses, draw reactions, or set up follow-up attacks. Similar to German *Absetzen* in function. Distinguished from full thrusts by the deliberate incompletion.
 
-**Weeks 11-12: Advanced Practice**
-- Day 1: Thirteenth Chase (Getting Chase)
-- Day 2: Multi-opponent drills
-- Day 3: Twenty-Second Counter
-- Day 4: Advanced tactics (proffers/feints)
-- Day 5: Full sparring session
-- Day 6: Assessment + planning
-- Day 7: Rest
+### C
 
-**Daily Session Structure (60 minutes):**
-1. Warm-up (10 min): First Flourish
-2. Technical focus (25 min): Day's specific technique
-3. Partner drills (15 min): Application with partner
-4. Free practice (5 min): Light sparring/experimentation
-5. Cool-down (5 min): Second Flourish or Laying Down
+**Cast Out** — An explosive throwing or launching motion used with springs. The "cast out" adds power and reach to the spring technique through committed forward momentum. First appears in the Eleventh Chase.
+
+**Chase** — Training sequence designed for partner practice, teaching tactical principles through structured exchanges. Chases are *not* combat applications but pedagogical tools. The Ledall Roll contains 13 Chases.
+
+**Coda Lunga** — Italian term. See *Dragon's Tail*.
+
+**Contrary** — Moving in opposition to your partner or opponent. "Contrary all to your man" means mirroring movements—if they advance, you retreat; if they move right, you move left. Foundation for contra-tempo tactics.
+
+**Contrary Hawk** — Rising diagonal cut delivered from low to high. Opposite direction of the standard descending quarter. Equivalent to German *Unterhau* or Italian *Sottone*.
+
+**Counter** — Defensive response to an opponent's attack, typically involving displacement followed by riposte. The Ledall Roll contains 23 Counters (also called "Points"). More combative than Chases, Counters teach actual fight responses.
+
+### D
+
+**Double Round** — Two consecutive circular motions, whether footwork (pivoting/turning), blade work (moulinets), or body rotation. Appears frequently in Chases. "Twice played brings you to your ground" indicates 720° total rotation.
+
+**Downright** — Vertical descending cut delivered straight down through the centerline. Distinguished from the diagonal quarter. A fundamental power cut.
+
+**Dragon's Tail** (*Dragonestalle*) — Guard position with sword held behind or beside the body, point angled down toward the ground. Equivalent to Italian *Posta de Coda Lunga*. A deceptive guard that:
+- Invites high attacks by appearing vulnerable
+- Loads power for explosive rising cuts or advances
+- Conceals the blade's position from the opponent
+Featured prominently in the Second Flourish.
+
+### F
+
+**Facing** — Turning to face an opponent directly, often combined with other techniques. The Twenty-Third Counter is "The Facing, with the Spring."
+
+**Fair** — Properly, correctly, or completely executed. "A quarter fair before you" means a properly delivered diagonal cut in front of your body. Indicates technical correctness.
+
+**Falling Stroke** — A descending cut that uses gravity to assist the motion. Distinguished from horizontal or rising cuts. The Third Counter features "a falling-stroke."
+
+**Flourish** — Solo training form similar to Asian kata. Structured sequences allowing practice without partners, used to warm up, build muscle memory, and internalize fundamental movements. The Ledall Roll contains 3 Flourishes.
+
+**Foin/Foyne** — Any thrust. The generic English term for thrusting attacks, regardless of angle or target.
+
+**Fore-thrust** — A committed, fully extended thrust delivered forward with killing intent. Distinguished from broken thrusts (feints) by complete commitment and follow-through.
+
+**Full-Spring** — A spring technique executed with full commitment and extension, typically with forward momentum (passing step). Maximum reach achieved through pommel grip and body extension. The Second Counter is "The Full-Spring."
+
+### G
+
+**Getting** — Escaping or extracting oneself from a dangerous situation. The Thirteenth Chase is "The Getting Chase," designed for escaping multiple opponents.
+
+### H
+
+**Hawk** — Guard position with sword raised overhead or at shoulder, ready to deliver descending cuts. Equivalent to German *Vom Tag*. An offensive-ready position that threatens powerful downward strikes.
+
+### L
+
+**Laying Down of the Sword** — The Third Flourish; formal ceremonial conclusion to training. The phrase "softly down" emphasizes control and respect for the weapon.
+
+**Lithely/Lightly** — Quickly, with agility, not powerfully. Indicates speed and precision over force. "A quarter lithely delivered" is a quick, snapping cut rather than a powerful stroke.
+
+### O
+
+**Oberhau** — German term for descending cut. See *Quarter*.
+
+**Ochs** — German term. See *Roebuck*.
+
+### P
+
+**Pass** — Footwork where one foot passes in front of or behind the other, changing your lead leg. Distinguished from simple steps where feet maintain relative position. "Pass with the left leg" means the left foot moves past the right.
+
+**Pendant** — Guard position with sword hanging behind or beside the body, typically held by one hand. Often transitions to snatch attacks. A deceptive, loaded position.
+
+**Pflug** — German term. See *Stop Guard*.
+
+**Point** — Alternative term for Counter; also refers to the tip of the sword. "The First Point of the Counter" = The First Counter.
+
+**Proffer** — A deliberately created opening designed to draw an opponent's attack. The practitioner intentionally appears vulnerable to bait a predictable response, then counters. Proffers must look genuine—theatrical or obvious proffers don't deceive experienced opponents.
+
+### Q
+
+**Quarter** — Diagonal descending cut delivered at approximately 45° angle. The most common offensive action in the Ledall system. Equivalent to German *Oberhau* or Italian *Fendente*. "A quarter fair before you" = properly executed diagonal cut forward.
+
+### R
+
+**Rabett** — Countercut delivered into the opponent's weapon to deflect or displace it. A percussive action that clears the opponent's blade rather than binding with it. Central to English displacement-focused defense.
+
+**Rake** — Quick, light wrist cut targeting the opponent's hands, arms, or forearms. Not a power cut—rakes are harassment strikes designed to disrupt and distract. Equivalent to Italian *Stromazzone*. Should be "lightly cleaving by the elbows."
+
+**Roebuck** — Guard position with point directed forward at head height, threatening the opponent's face. Equivalent to German *Ochs*. An aggressive, point-forward guard.
+
+**Round** — Circular motion, whether of footwork, blade, or body. See *Double Round*.
+
+### S
+
+**Same-Leg Advance** — Footwork pattern where the same leg advances twice consecutively, creating longer reach. The Twenty-Third Counter uses this pattern.
+
+**Set In** — Advancing a specific leg forward. "Set in the right leg" means step the right foot forward. More deliberate than a simple step, often into a guard position.
+
+**Short-Spring** — A spring with less extension than the full-spring, executed without passing step. Faster but shorter reach. The Third Counter is "The Short-Spring, with a Falling-Stroke."
+
+**Snatch** — A quick, snapping cut delivered from pendant guard using primarily wrist motion. The name suggests the grabbing, snatching quality of the fast motion. The Tenth Counter is "The Snatch."
+
+**Spring** — Signature English technique: one-handed thrust or cut with grip slid to the pommel for maximum reach. Adds 12-18 inches beyond normal extension. Executed from stable platform, often with explosive "cast out" motion. The defining technique of English longsword.
+
+**Stop/Stop Guard** — Defensive guard position with hands near waist level, point directed forward to threaten. Equivalent to German *Pflug*. Sequences typically end "at your stop"—returning to this defensive position.
+
+**Stromazzone** — Italian term. See *Rake*.
+
+### T
+
+**Traverse** — Footwork moving offline or diagonally, not directly forward or backward. Used to create angles and avoid linear attacks.
+
+**Tumble/Tumbling** — Rolling, continuous forward momentum. "Tumble forward as round as a ball" describes flowing, committed forward attack. The Sixth Chase is "The Tumbling Chase."
+
+### U
+
+**Unterhau** — German term for rising cut. See *Contrary Hawk*.
+
+### V
+
+**Void** — Step backward to create distance from the opponent. The primary English defensive footwork. Void steps should create significant distance (2-3 feet minimum). Often combined with offensive actions—"attacking while retreating."
+
+**Vom Tag** — German term. See *Hawk*.
 
 ---
 
-## APPENDIX C: COMMON MISTAKES & CORRECTIONS
+## APPENDIX B: TRAINING ADVICE
 
-**MISTAKE:** Gripping too far forward on springs
-**CORRECTION:** Hand should be at or near pommel for maximum reach
+This section consolidates training wisdom from throughout the manuscript into practical guidance for developing your Ledall Roll practice.
 
-**MISTAKE:** Power-cutting rakes instead of quick harassment
-**CORRECTION:** Rakes are light, fast, wrist-driven—think harassment, not damage
+---
 
-**MISTAKE:** Pausing between rake and quarter in Counters
-**CORRECTION:** These should flow as one continuous motion
+### Core Training Principles
 
-**MISTAKE:** Obvious/theatrical proffers that don't fool anyone
-**CORRECTION:** Proffers should look like genuine mistakes/openings
+**Quality Over Speed**
+Master each technique slowly before adding speed. Rushing creates bad habits that become difficult to correct. As the manuscript repeatedly emphasizes, techniques should be executed "fair"—properly and correctly—before attempting them quickly.
 
-**MISTAKE:** Not voiding far enough on retreat
-**CORRECTION:** Void steps should create significant distance (2-3 feet minimum)
+**Smooth Transitions**
+The English system's distinctive feature is constant transition between one-handed and two-handed grips. Focus on making these transitions smooth and natural. Tension in one-handed sections reduces control; practice relaxed, fluid grip changes.
 
-**MISTAKE:** Forgetting "stop guard" endings
-**CORRECTION:** Every sequence ends in defensive guard—never finish exposed
+**Displacement, Not Binding**
+English longsword prioritizes immediate displacement followed by thrust. Don't try to win the bind—displace quickly and thrust into the opening. Very little winding, lots of displacement and thrusting.
 
-**MISTAKE:** Treating Chases as combat applications
-**CORRECTION:** Chases are training sequences—learn principles, then apply tactically
+**Attack While Retreating**
+The void steps aren't purely defensive—they combine offense with retreat. Practice maintaining threat while moving backward. This principle appears throughout the Chases and Counters.
 
-**MISTAKE:** Mechanical execution without tactical understanding
-**CORRECTION:** Every technique has "why"—study the purpose, not just the motion
+**Safety Through Position**
+Every sequence ends in defensive guard. Never finish exposed. The phrase "be at your stop" means returning to a safe, ready position. Make this automatic.
 
-**MISTAKE:** Only practicing solo
-**CORRECTION:** Partner work is essential for distance, timing, tactical awareness
+**Purpose Before Motion**
+Every technique has a "why." Study the tactical purpose, not just the physical motion. Mechanical execution without tactical understanding is incomplete practice.
 
-**MISTAKE:** Rushing through material
-**CORRECTION:** Master each technique before progressing—quality over quantity
+---
+
+### Progression Philosophy
+
+**Master Fundamentals First**
+The manuscript builds progressively. Each technique assumes mastery of previous material:
+- First Flourish before Second Flourish
+- Four Points before Five Points
+- First Counter before Fifth Counter (which repeats the pattern)
+
+Don't skip ahead. Foundation determines ceiling.
+
+**Progressive Complexity**
+Training progressions throughout the manuscript follow a consistent pattern:
+1. **Week 1:** Isolated mechanics—practice the core movement in isolation
+2. **Week 2:** Add footwork—coordinate blade and feet
+3. **Week 3:** Integration—combine with related techniques
+4. **Week 4+:** Speed and flow—increase tempo while maintaining form
+
+Apply this pattern to any technique you're learning.
+
+**The Weekly Breakdown**
+For any new technique:
+- Days 1-2: Slow practice, focus on form
+- Days 3-4: Add footwork coordination
+- Days 5-6: Partner drills (if applicable)
+- Day 7: Rest or light review
+
+**Rest Is Training**
+The manuscript's training progressions include rest. Fatigue leads to injury and bad habits. Complex techniques like the Tumbling Chase explicitly warn against practicing when tired.
+
+---
+
+### Solo vs. Partner Training
+
+**When to Train Solo**
+- Learning new sequences (Flourishes, Chase patterns)
+- Drilling mechanics (spring grip, rake motion, void distance)
+- Warm-up and cool-down
+- Conditioning and balance work
+- When no partner is available
+
+**When Partner Work Is Essential**
+- Distance and timing development
+- Proffer practice (must deceive real opponent)
+- Pressure testing techniques
+- Developing tactical awareness
+- Any "contrary" movement drill
+
+**The Solo Trap**
+Only practicing solo is explicitly listed as a common mistake. Partner work develops skills that solo practice cannot: reading opponents, adapting to pressure, managing real distance. Find training partners.
+
+---
+
+### Equipment and Safety
+
+**Sword Requirements**
+- Appropriate weight for longsword training
+- Safe for partner work (blunted, appropriate flex)
+- Length suitable for spring techniques (need enough handle for pommel grip)
+
+**Training Space**
+- Clear of obstacles (especially for Chases with significant movement)
+- Adequate ceiling height for overhead work
+- Non-slip flooting for pivoting (Tumbling Chase)
+- Sufficient room for partner drills
+
+**Physical Conditioning**
+Several techniques demand specific physical preparation:
+- **Balance:** Tumbling Chase requires standing on one foot for extended periods
+- **Core strength:** Stability for one-handed techniques
+- **Wrist strength:** Rake and snatch techniques are wrist-driven
+- **Cardiovascular:** Extended Counters (like the Eighth Counter with 13 steps) are exhausting
+
+Build conditioning alongside technique work.
+
+---
+
+### Long-Term Development Path
+
+**Months 1-3: Foundation**
+- Master all three Flourishes
+- Learn first five Chases
+- Understand first five Counters
+- Build fundamental skills
+- Focus on grip transitions and void distance
+
+**Months 4-6: Development**
+- Complete all Chases
+- Progress through Counters 6-15
+- Begin regular partner drilling
+- Start light sparring
+- Develop the spring technique
+
+**Months 7-12: Refinement**
+- Master all Counters
+- Practice Special Techniques
+- Regular sparring integration
+- Teach others (best way to solidify understanding)
+
+**Year 2+: Mastery**
+- Refine techniques continuously
+- Develop personal style within the system
+- Research and experiment with interpretations
+- Contribute to the community
+
+**Ongoing Reality**
+- The system is never "complete"
+- Always room for improvement
+- New interpretations emerge through practice
+- Share knowledge freely
+
+---
+
+### Training Logs and Assessment
+
+**What to Track**
+- Techniques practiced and duration
+- Partner drill feedback
+- Sparring observations
+- Problem areas identified
+- Progress on specific sequences
+
+**Self-Assessment Questions**
+After each session, ask:
+1. Did my techniques end in stop guard?
+2. Were my voids creating sufficient distance?
+3. Did transitions flow smoothly?
+4. Could I explain the tactical purpose of what I practiced?
+5. What needs work next session?
+
+**Video Review**
+Record yourself periodically. Compare against your understanding of the text. Video reveals issues you can't feel while executing—balance problems, telegraphing, incomplete motions.
+
+**Partner Feedback**
+After partner drills, ask:
+- Did my proffers look genuine?
+- Could you predict my attacks?
+- Was my distance threatening?
+- What openings did you see?
+
+---
+
+## APPENDIX C: TECHNIQUES TROUBLESHOOTING
+
+This section compiles common mistakes from throughout the manuscript, organized by problem category. Use this as a diagnostic reference when techniques aren't working.
+
+---
+
+### Grip Issues
+
+**Problem:** Gripping too far forward on springs
+**Solution:** Hand should be at or near pommel for maximum reach. The spring's power comes from extended leverage—gripping forward defeats the purpose.
+
+**Problem:** Gripping too tightly in one-handed sections
+**Solution:** Tension reduces control and speed. Relax the grip, especially during transitions. The sword should feel like an extension of your arm, not a club you're strangling.
+
+**Problem:** Not fully releasing rear hand for pendant/springs
+**Solution:** Pendant positions and springs require committing to one-handed control. Half-releasing the rear hand limits depth of pendant and reach of springs.
+
+**Problem:** Insufficient grip slide for full-spring
+**Solution:** Hand must reach the pommel, not just slide partway down. Measure your extension—full-spring should add 12-18 inches beyond normal reach.
+
+---
+
+### Footwork Problems
+
+**Problem:** Not voiding far enough on retreat
+**Solution:** Void steps should create significant distance—2-3 feet minimum. Short voids don't create safety. Practice measuring your void distance.
+
+**Problem:** Passing steps too small
+**Solution:** Passes should cover ground. Short passes reduce the effectiveness of advancing techniques. Step past your front foot significantly.
+
+**Problem:** Moving feet when "standing still" is required
+**Solution:** Several techniques explicitly require stationary execution for stability (springs from standing position). Plant both feet firmly before explosive motions.
+
+**Problem:** Wrong foot supporting during spins (Tumbling Chase)
+**Solution:** "All upon the left foot" means pivot on left foot specifically. Using right foot defeats the balance training purpose.
+
+**Problem:** Uneven or incomplete rotations
+**Solution:** Full rotations (rounds) should be consistent. Second round should match first. Incomplete rotations break the spatial pattern.
+
+**Problem:** Not returning to starting position
+**Solution:** "Bring you to your ground" means returning to start after repetition. If you're not back where you started, footwork has errors.
+
+---
+
+### Timing and Flow
+
+**Problem:** Pausing between connected actions
+**Solution:** Rake-to-quarter, displacement-to-thrust, and similar combinations must flow as single continuous motions. Pause gives opponent recovery time.
+
+**Problem:** Rushing through sequences
+**Solution:** Speed should follow mastery. Rushing creates incomplete techniques and bad habits. Slow is smooth; smooth eventually becomes fast.
+
+**Problem:** Telegraphing movements
+**Solution:** If opponent can predict your next action, the technique fails. Minimize windup, keep eyes neutral (don't look where you're attacking), make feints look real.
+
+**Problem:** Slow transition to rake (when "suddenly" is specified)
+**Solution:** The word "suddenly" appears repeatedly—it means explosive speed change. Practice the transition specifically until it's instantaneous.
+
+**Problem:** All actions at same rhythm
+**Solution:** Rhythm variation creates openings. Vary tempo—slow then fast, or fast then slow. Predictable rhythm is readable rhythm.
+
+---
+
+### Power vs. Precision
+
+**Problem:** Power-cutting rakes instead of quick harassment
+**Solution:** Rakes are light, fast, wrist-driven. Think harassment, not damage. Heavy rakes are slow and miss the tactical purpose.
+
+**Problem:** Heavy quarter cuts when "lithely" is specified
+**Solution:** "Lithely" means quick and agile, not powerful. These are snapping cuts, not committed power strokes.
+
+**Problem:** Weak strikes on committed attacks
+**Solution:** Full-strokes, downright strokes, and fore-thrusts should genuinely threaten. Weak committed attacks don't pressure opponents.
+
+**Problem:** Weak rabett that doesn't displace blade
+**Solution:** Rabetts must actually clear the opponent's weapon. If their blade isn't moved, the displacement failed. Adjust angle or force.
+
+**Problem:** Weak snatch without snap
+**Solution:** Snatch requires wrist snap, not arm swing. The name describes the motion—quick, grabbing, snatching speed.
+
+---
+
+### Distance Management
+
+**Problem:** Over-committing without balance for recovery
+**Solution:** Every committed action needs a recovery plan. If you're falling forward after a thrust, you over-committed.
+
+**Problem:** Poor spatial awareness during traveling patterns
+**Solution:** Note your start position. Chases should return you to starting point—if not, you've drifted. Practice with floor markers.
+
+**Problem:** Not maintaining constant separation in partner drills
+**Solution:** Contrary movements should maintain distance. If you're getting closer or farther during drills, someone's steps are wrong.
+
+**Problem:** Forgetting stop guard endings
+**Solution:** Every sequence ends in defensive guard—never finish exposed. "Be at your stop" is safety, not suggestion.
+
+---
+
+### Deception and Tactics
+
+**Problem:** Obvious proffers that don't deceive
+**Solution:** Proffers must look like genuine mistakes or openings. Theatrical or exaggerated proffers fool no one. Practice with partners who give honest feedback.
+
+**Problem:** Obvious broken thrusts that look like feints
+**Solution:** Broken thrusts should look like real thrusts that were blocked or parried. The opponent shouldn't be able to tell it was never going to hit.
+
+**Problem:** Looking where you're about to attack
+**Solution:** Eyes telegraph intention. Keep gaze neutral or deceptive. Springs especially fail if you stare at the target.
+
+**Problem:** Mechanical execution without adapting
+**Solution:** Techniques must adapt to opponent reactions. Chases teach principles to apply tactically—they're not scripts to follow rigidly in combat.
+
+---
+
+### Partner Drill Issues
+
+**Problem:** One partner dominating the drill
+**Solution:** Both partners should lead and follow equally. If one person always initiates, the other isn't learning to read and respond.
+
+**Problem:** Moving at same time instead of contrary
+**Solution:** "Contrary" drills require opposite movement. If partner moves right, you move left. Practice with clear verbal cues initially.
+
+**Problem:** Poor communication during exchanges
+**Solution:** Partners should sync naturally, but this takes practice. Start with verbal coordination, reduce cues as timing improves.
+
+**Problem:** Treating Chases as combat applications
+**Solution:** Chases are training sequences—learn principles, then apply tactically. Don't try to use Chase patterns directly in sparring.
+
+---
+
+### Physical Issues
+
+**Problem:** Getting dizzy from rotations
+**Solution:** Keep eyes on the horizon, not the ground. Spot like a dancer. Build tolerance gradually—don't attempt four double rounds on day one.
+
+**Problem:** Losing balance during one-footed work
+**Solution:** Build balance foundation before attempting Tumbling Chase. Practice standing on one foot for 30-60 seconds daily. Add sword work only after stability is solid.
+
+**Problem:** Fatigue degrading technique
+**Solution:** Stop before exhaustion. Extended Counters and the Tumbling Chase are physically demanding—rest between attempts. Practicing when fatigued risks injury.
+
+**Problem:** Losing sword control during spins
+**Solution:** Maintain firm (not tense) grip throughout rotations. The centrifugal force wants to throw the blade—control it.
+
+---
+
+### Understanding Issues
+
+**Problem:** Forgetting backup plans ("if he set that")
+**Solution:** Many techniques include contingency instructions. "If he set that, smite of the other side" isn't optional—it's the plan B you need. Drill both paths.
+
+**Problem:** Treating repetition as unimportant
+**Solution:** The Fifth Counter deliberately repeats the First Counter's pattern. This isn't filler—repetition with awareness refines fundamentals. Don't skip "review" techniques.
+
+**Problem:** Skipping techniques to reach "interesting" ones
+**Solution:** Progressive complexity requires foundation. The Tenth Chase assumes you've mastered the Ninth. Skipping creates gaps that limit advancement.
 
 ## COMPLETE BIBLIOGRAPHY & CITATIONS
 
-[1] Geldof, M.R. (2023). "Cut and paste: re-arranging British Library MS Additional 39564." *Acta Periodica Duellatorum*, 11(1), 39-66. https://bop.unibe.ch/apd/article/view/9098
+[1] Geldof, M.R. (2023). "Cut and paste: re-arranging British Library MS Additional 39564." *Acta Periodica Duellatorum*, 11(1), 39-66. <https://bop.unibe.ch/apd/article/view/9098>
 
-[2] Kay, R. (2020). "Terminology Comparison: English vs German/Italian Longsword." *English Longsword for German/Italian Longsword HEMA Students*. HEMA Enthusiast. https://hemaenthusiast.com/2020/09/04/english-longsword-for-german-italian-longsword-hema-students/
+[2] Kay, R. (2020). "Terminology Comparison: English vs German/Italian Longsword." *English Longsword for German/Italian Longsword HEMA Students*. HEMA Enthusiast. <https://hemaenthusiast.com/2020/09/04/english-longsword-for-german-italian-longsword-hema-students/>
 
 [3] Heslop, B. & Bradak, B. (2010). *Lessons on the English Longsword*. Boulder, CO: Paladin Press.
 
-[4] Academy of Historical Arts. "What is a flourish?" https://www.academyofhistoricalarts.co.uk/lesson/what-is-a-flourish/
+[4] Academy of Historical Arts. "What is a flourish?" <https://www.academyofhistoricalarts.co.uk/lesson/what-is-a-flourish/>
 
-[5] Kay, R. (2020). "English vs Continental Systems: Core Differences." *English Longsword for German/Italian Longsword HEMA Students*. HEMA Enthusiast. https://hemaenthusiast.com/2020/09/04/english-longsword-for-german-italian-longsword-hema-students/
+[5] Kay, R. (2020). "English vs Continental Systems: Core Differences." *English Longsword for German/Italian Longsword HEMA Students*. HEMA Enthusiast. <https://hemaenthusiast.com/2020/09/04/english-longsword-for-german-italian-longsword-hema-students/>
 
-[6] Geldof, M.R. (2023). "Manuscript Structure and Disorder Analysis." *Acta Periodica Duellatorum*, 11(1). https://bop.unibe.ch/apd/article/view/9098
+[6] Geldof, M.R. (2023). "Manuscript Structure and Disorder Analysis." *Acta Periodica Duellatorum*, 11(1). <https://bop.unibe.ch/apd/article/view/9098>
 
 [7] Silver, G. (1599). *Paradoxes of Defence*. London. (Multiple modern reprints available)
 
-[8] Brown, T. "BM Additional MS 39564: Analysis and Commentary." *Terry Brown's School of English Martial Arts*. https://www.terrybrownenglishmartialarts.com/bm-additional-ms-39564/
+[8] Brown, T. "BM Additional MS 39564: Analysis and Commentary." *Terry Brown's School of English Martial Arts*. <https://www.terrybrownenglishmartialarts.com/bm-additional-ms-39564/>
 
-[9] Wiktenauer. "Ledall Roll (Additional MS 39564)." Comprehensive transcription and scholarly notes. https://wiktenauer.com/wiki/Ledall_Roll_(Additional_MS_39564)
+[9] Wiktenauer. "Ledall Roll (Additional MS 39564)." Comprehensive transcription and scholarly notes. <https://wiktenauer.com/wiki/Ledall_Roll_(Additional_MS_39564)>
 
-[10] Guild of Knightly Arts. "Principles of the English Fight." https://www.guildofknightlyarts.com/
+[10] Guild of Knightly Arts. "Principles of the English Fight." <https://www.guildofknightlyarts.com/>
 
 ### Additional Resources
 

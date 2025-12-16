@@ -1,6 +1,6 @@
 # Ledall Roll Study Guide - Project Roadmap
 
-## Current Status: v1.0 Final Draft Complete ✓
+## Current Status: v0.6.0 Draft In Progress
 
 The complete study guide (41 chapters, ~40,000 words) is compiled and ready for the next phase.
 
@@ -23,7 +23,7 @@ The complete study guide (41 chapters, ~40,000 words) is compiled and ready for 
 **Goal:** Interactive database version for modern practitioners.
 
 **Structure:**
-- **Master Database:** "All 41 Plays" 
+- **Master Database:** "All 41 Plays"
   - Properties: Play #, Name, Type (Flourish/Chase/Counter/Special), Difficulty, Key Concepts
   - Each entry links to full formatted chapter content
 - **Terminology Database:** Cross-referenced glossary
@@ -299,4 +299,4 @@ This is a **living document** - we'll adjust priorities based on:
 - New opportunities or collaborations
 
 **Last Updated:** December 13, 2025  
-**Version:** 1.0 - Focused Roadmap
+**Version:** 0.6.0 - Focused Roadmap

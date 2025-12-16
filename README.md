@@ -1,6 +1,6 @@
 # The Ledall Roll - Enhanced Study Guide
 
-<sub>v1.0.0</sub>
+<sub>v0.6.0</sub>
 
 <sup>By Dr. Joel Casimir, D.D.S.</sup>
 
@@ -54,7 +54,7 @@ Advanced reactive applications including counter-to-counter tactics.
 - **3 Appendices:** Terminology, training schedules, troubleshooting
 - **Complete Bibliography:** 10 academic sources plus additional resources
 
-### Every Chapter Includes:
+### Every Chapter Includes
 
 - ✅ Original Middle English text (historical authenticity)
 - ✅ Modern English translation
@@ -230,7 +230,7 @@ Unlike simple transcriptions or basic interpretations, this guide provides:
 
 This guide represents current best interpretations based on available scholarship. As research evolves and practitioners experiment, new insights emerge.
 
-### Ways to Contribute:
+### Ways to Contribute
 
 1. **Test the Techniques** - Document what works in practice
 2. **Suggest Clarifications** - Identify unclear explanations
@@ -247,7 +247,7 @@ This guide represents current best interpretations based on available scholarshi
 ## Recommended Companion Resources
 
 ### Primary Sources (Free Online)
-- **Wiktenauer** - Complete transcription: https://wiktenauer.com/wiki/Ledall_Roll_(Additional_MS_39564)
+- **Wiktenauer** - Complete transcription: <https://wiktenauer.com/wiki/Ledall_Roll_(Additional_MS_39564)>
 - **British Library** - Digital manuscript viewer (may require reader ticket)
 
 ### Books
@@ -322,7 +322,7 @@ License: CC BY-SA 4.0
 
 ## Disclaimer
 
-This guide represents **current best interpretations** of the historical source material. Medieval manuscripts are inherently ambiguous, and multiple valid reconstructions exist. 
+This guide represents **current best interpretations** of the historical source material. Medieval manuscripts are inherently ambiguous, and multiple valid reconstructions exist.
 
 - Techniques are presented for **historical study and safe practice**
 - **Always train under qualified supervision**
@@ -382,11 +382,11 @@ See [LICENSE.md](LICENSE.md) for full details.
 
 ## Footnotes
 
-1. *Willem and Jan Dermoyen, after Bernard van Orley, The Battle of Pavia, c. 1528–31, tapestry (wool, silk, gold, and silver thread), Museo e Real Bosco di Capodimonte, Naples, photograph, Wikimedia Commons, https://en.wikipedia.org/wiki/Battle_of_Pavia#/media/File:Manif._di_bruxelles_su_dis.di_bernart_von_orley,_IGMN144483,_1526-31.JPG.*
+1. *Willem and Jan Dermoyen, after Bernard van Orley, The Battle of Pavia, c. 1528–31, tapestry (wool, silk, gold, and silver thread), Museo e Real Bosco di Capodimonte, Naples, photograph, Wikimedia Commons, <https://en.wikipedia.org/wiki/Battle_of_Pavia#/media/File:Manif._di_bruxelles_su_dis.di_bernart_von_orley,_IGMN144483,_1526-31.JPG>.*
 
 ---
 
-> ### About Bernard van Orley (c. 1487–1541):
+> ### About Bernard van Orley (c. 1487–1541)
 >
 > Van Orley was the leading Brussels court artist of his time, serving the Habsburg rulers Wikipedia, including Margaret of Austria (from 1515) and being appointed court painter in 1518 Encyclopedia Britannica. Though he never visited Italy, he was heavily influenced by Italian Renaissance painting, especially Raphael's tapestry cartoons Wikipedia that were in Brussels 1516-1520. Albrecht Dürer made a portrait of him in 1521 Encyclopedia Britannica, and the two likely discussed tapestry design while Dürer was van Orley's houseguest.
 >
