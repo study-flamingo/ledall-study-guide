@@ -1551,7 +1551,7 @@ Unclear etymology. Theories:
 |--------|-----------|----------|-------|
 | 1 | Large Proffer | Stand | Very obvious opening |
 | **OPPONENT** | Committed attack | Advances | Takes bait aggressively |
-| 2 | Start rabett | Void back right leg | Begin countercut (feint) |
+| 2 | Start rabett | Void back right leg | Begin countercut while retreating |
 | 3 | Break rabett | Stand | Abort the rabett mid-motion |
 | 4 | Full-spring to leg | Extended stance | Capitalize on opponent's response |
 | 5 | Quarter full | Stand | First safety cut |

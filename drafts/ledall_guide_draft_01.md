@@ -593,8 +593,8 @@
 1. Proffer
 2. Rake
 3. Quarter (full) - standing still
-4. Void above head
-5. Attack at leg
+4. Cut above head while voiding (stepping back)
+5. Cut to leg
 6. Step back with right leg + Quarter
 7. Return to guard
 
@@ -870,8 +870,8 @@
 1. Proffer
 2. Rake
 3. Quarter (full)
-4. Standing still: Void above head
-5. Another attack at leg
+4. Cut above head while voiding (stepping back)
+5. Cut to leg
 6. Step back with right leg + Quarter
 7. Return to guard
 

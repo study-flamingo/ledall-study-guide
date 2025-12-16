@@ -814,7 +814,7 @@ The "contrary" concept is foundation for contra-tempo tactics:
 - Opponent advances → You retreat (deny their attack)
 - Opponent retreats → You advance (maintain pressure)
 - Opponent circles right → You circle left (cut angle)
-- Opponent commits → You void opposite (create opening)
+- Opponent commits → You void back (retreat to safety while they over-extend)
 
 **Distance Management:**
 By moving contrary to opponent:
@@ -2747,7 +2747,7 @@ Most Counters follow this pattern:
 
 > "The First Counter establishes the foundational pattern for all Counters: proffer (draw attack) → defensive action (rake) → offensive response (quarters) → safety (void + quarter) → return to guard (stop). Master this structure before attempting complex Counters."[3]
 
-> "The high-low combination (void above head, attack leg) forces opponent to defend multiple lines simultaneously. They can't protect both targets adequately, creating openings."[5]
+> "The high-low combination (cut above head while voiding back, then attack to leg) works because you maintain offensive pressure while retreating to safety, then exploit the low line."[5]
 
 **Key Points:**
 - **Foundational Counter pattern** - all others build on this
@@ -2770,10 +2770,10 @@ Most Counters follow this pattern:
 |--------|-----------|----------|-------|
 | 1 | Proffer | Stand | Bait opening, draw attack |
 | **OPPONENT** | Attacks proffer | Advances | Falls into trap |
-| 2 | Rake | Stand or slight void | Harassment cut to hands/arms |
+| 2 | Rake | Stand or slight retreat | Harassment cut to hands/arms |
 | 3 | Quarter (full) | Stand still | "Full" = committed cut |
-| 4 | Void above head | Stand | Defensive evasion high |
-| 5 | Attack to leg | Stand | Low-line strike |
+| 4 | Cut above head | Void (step back) | High cut while retreating |
+| 5 | Cut to leg | Stand or advance | Low-line follow-up strike |
 | 6 | Quarter | Void back right leg | Cut while retreating |
 | 7 | Stop Guard | Stand | Return to defensive position |
 
@@ -2785,8 +2785,8 @@ Most Counters follow this pattern:
 
 **Phase 2: Offense (Steps 3-5)**
 - Quarter pressures
-- High void forces reaction
-- Leg attack exploits opening
+- High cut during void (retreat) maintains threat
+- Leg attack exploits opening created by high-low sequence
 
 **Phase 3: Safety (Steps 6-7)**
 - Void back creates distance
@@ -2806,8 +2806,8 @@ Appears in nearly all Counters with variations. Understanding it allows predicti
 - No hesitation between actions
 
 **Week 2: Add High-Low**
-- Void above head (defensive)
-- Attack to leg (offensive)
+- Cut above head while voiding back
+- Attack to leg (offensive follow-up)
 - Quick transition high→low
 - Partner observes if they could defend both
 
@@ -3773,8 +3773,8 @@ Rabett must genuinely displace. If blade doesn't move, your follow-up attacks wo
 | **OPPONENT** | Attacks | Advances | Takes bait |
 | 2 | Rake | Stand | Disrupt attack |
 | 3 | Quarter (full) | **Standing still** | Explicitly stable |
-| 4 | Void above head | Stand still | High defensive action |
-| 5 | Attack to leg | Stand still | Low offensive action |
+| 4 | Cut above head | Void (step back) | High cut while retreating |
+| 5 | Cut to leg | Stand or advance | Low-line follow-up |
 | 6 | Quarter | Void back right leg | Retreat while cutting |
 | 7 | Stop Guard | Stand | Defensive position |
 
@@ -4257,8 +4257,8 @@ Diagonal cuts appear across martial traditions because they work. The English cr
 - Two voids total (mid-sequence + ending)
 
 **Tactical Purpose:**
-- Void draws opponent forward
-- Downright meets their advance
+- Void (retreat) creates space and may draw opponent forward
+- Downright meets their advance with power
 - Quick thrust exploits their reaction
 - Power-speed combination overwhelms
 - Multiple voids create safety
@@ -4406,7 +4406,7 @@ After powerful downright, thrust must be:
 
 #### COMMON MISTAKES
 
-- Weak mid-void that doesn't draw opponent
+- Weak mid-void (not retreating far enough)
 - Downright while standing instead of advancing
 - Heavy thrust instead of "lithely"
 - Pausing between downright and thrust
@@ -4424,8 +4424,8 @@ After powerful downright, thrust must be:
 - They overwhelm with forward momentum
 
 **Your Response:**
-- Mid-void baits their chase
-- Downright punishes pursuit
+- Mid-void (retreat) creates space; they may pursue
+- Downright punishes their pursuit
 - Thrust finishes while they're reeling
 - They learn: Don't chase blindly
 
@@ -5416,10 +5416,10 @@ Select version that:
 - Chambering thrust
 - Preparing real attack
 
-**Void During Spring:**
-- Spring + void back = safe probe
-- No commitment
-- Can retreat if needed
+**Spring While Voiding (Attacking While Retreating):**
+- Spring executed during the passing step back
+- Maintains offensive threat during retreat
+- Can continue retreat if needed
 - Maintains safety
 
 #### HAND POSITIONING DETAIL
@@ -5806,8 +5806,8 @@ If partner frequently guesses right:
 | 1 | Proffer | Stand | Draw attack |
 | 2 | Rake | Stand | Disrupt |
 | 3 | Quarter (full) | Stand still | First quarter |
-| 4 | Void above head | **Stand still** | High evasion |
-| 5 | Attack to leg | **Stand still** | Low strike |
+| 4 | Cut above head | Void (step back) | High cut while retreating |
+| 5 | Cut to leg | Stand or advance | Low-line follow-up |
 | 6 | Quarter | Void back right leg | Third quarter + retreat |
 | 7 | Stop Guard | Stand | Defensive position |
 
@@ -6628,7 +6628,7 @@ George Silver later wrote: "The mind defeats the body before the blade defeats t
 
 #### PRACTITIONER TIPS
 
-> "'The Facing' likely means confronting or directly engaging the opponent—squaring up aggressively. The unusual footwork (advance left, void back same leg, spring during void) creates a dynamic in-out motion that's hard to track."[3]
+> "'The Facing' likely means confronting or directly engaging the opponent—squaring up aggressively. The unusual footwork (advance left, void back same leg, spring while retreating) creates a dynamic in-out motion that's hard to track."[3]
 
 > "This is the FINAL numbered Counter—the 23rd. It teaches same-leg advance-retreat, a sophisticated footwork pattern that maximizes safety while maintaining offensive threat. Two versions offer tactical flexibility."[5]
 
@@ -6644,7 +6644,7 @@ George Silver later wrote: "The mind defeats the body before the blade defeats t
 - Version 1: Control → retreat-attack → safety
 - Version 2: Control → power strike → retreat
 - Same-leg movement creates unpredictability
-- Spring during void = attacking while retreating
+- Spring while voiding = attacking while retreating (the void IS the retreat)
 
 #### STEP BREAKDOWN - VERSION 1
 
@@ -6729,18 +6729,18 @@ English longsword often emphasized:
 - No commitment to full advance
 - Escape route built-in
 
-#### SPRING DURING VOID
+#### ATTACKING WHILE RETREATING (SPRING WHILE VOIDING)
 
-**Attacking While Retreating:**
+**The English Principle:**
 
-This embodies the English principle: "Quarter and void"—attacking during retreat.
+This embodies the English principle: "Quarter and void"—attacking during retreat. The void IS the retreating footwork; the spring happens simultaneously.
 
 **Mechanics:**
 1. Rabett controls blade (step forward)
-2. Begin void back (weight shifts rear)
+2. Begin void back (passing step backwards—weight shifts rear)
 3. **During retreat** execute spring
-4. Spring maintains threat
-5. Void creates safety
+4. Spring maintains offensive threat
+5. Void (the retreat itself) creates safety
 6. Simultaneous offense and defense
 
 **Tactical Brilliance:**
@@ -6820,7 +6820,7 @@ This is **advanced technique**—spring and void must be perfectly coordinated. 
 **Psychological Impact:**
 - "I'll engage directly" (facing)
 - "But only on my terms" (same-leg retreat)
-- "And I'm still attacking" (spring during void)
+- "And I'm still attacking" (spring while retreating)
 - Demonstrates complete control
 
 #### THE FINAL COUNTER
@@ -7196,7 +7196,7 @@ Develop instant recognition and precise timing under pressure.
 |--------|-----------|----------|-------|
 | 1 | Proffer | Stand | Opening |
 | 2 | Rake | Stand | Disrupt |
-| 3 | Void quarter above head | **Stand still, right hand** | One-handed, high void |
+| 3 | Quarter above head | Void (step back), right hand | One-handed high cut while retreating |
 | 4 | **Sword waves/circles overhead** | Stand | **Dragon's Tail motion** |
 | 5 | (Transition) | Set in left foot | Advance during circle |
 | 6 | **Thrust to face** | Right hand and foot | **Lightly—one-handed thrust** |

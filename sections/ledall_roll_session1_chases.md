@@ -109,7 +109,7 @@ The "contrary" concept is foundation for contra-tempo tactics:
 - Opponent advances → You retreat (deny their attack)
 - Opponent retreats → You advance (maintain pressure)
 - Opponent circles right → You circle left (cut angle)
-- Opponent commits → You void opposite (create opening)
+- Opponent commits → You void back (retreat to safety while they over-extend)
 
 **Distance Management:**
 By moving contrary to opponent:

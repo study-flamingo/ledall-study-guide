@@ -12,7 +12,7 @@
 
 #### PRACTITIONER TIPS
 
-> "'The Facing' likely means confronting or directly engaging the opponent—squaring up aggressively. The unusual footwork (advance left, void back same leg, spring during void) creates a dynamic in-out motion that's hard to track."[3]
+> "'The Facing' likely means confronting or directly engaging the opponent—squaring up aggressively. The unusual footwork (advance left, void back same leg, spring while retreating) creates a dynamic in-out motion that's hard to track."[3]
 
 > "This is the FINAL numbered Counter—the 23rd. It teaches same-leg advance-retreat, a sophisticated footwork pattern that maximizes safety while maintaining offensive threat. Two versions offer tactical flexibility."[5]
 
@@ -28,7 +28,7 @@
 - Version 1: Control → retreat-attack → safety
 - Version 2: Control → power strike → retreat
 - Same-leg movement creates unpredictability
-- Spring during void = attacking while retreating
+- Spring while voiding = attacking while retreating (the void IS the retreat)
 
 #### STEP BREAKDOWN - VERSION 1
 
@@ -113,18 +113,18 @@ English longsword often emphasized:
 - No commitment to full advance
 - Escape route built-in
 
-#### SPRING DURING VOID
+#### ATTACKING WHILE RETREATING (SPRING WHILE VOIDING)
 
-**Attacking While Retreating:**
+**The English Principle:**
 
-This embodies the English principle: "Quarter and void"—attacking during retreat.
+This embodies the English principle: "Quarter and void"—attacking during retreat. The void IS the retreating footwork; the spring happens simultaneously.
 
 **Mechanics:**
 1. Rabett controls blade (step forward)
-2. Begin void back (weight shifts rear)
+2. Begin void back (passing step backwards—weight shifts rear)
 3. **During retreat** execute spring
-4. Spring maintains threat
-5. Void creates safety
+4. Spring maintains offensive threat
+5. Void (the retreat itself) creates safety
 6. Simultaneous offense and defense
 
 **Tactical Brilliance:**
@@ -204,7 +204,7 @@ This is **advanced technique**—spring and void must be perfectly coordinated. 
 **Psychological Impact:**
 - "I'll engage directly" (facing)
 - "But only on my terms" (same-leg retreat)
-- "And I'm still attacking" (spring during void)
+- "And I'm still attacking" (spring while retreating)
 - Demonstrates complete control
 
 #### THE FINAL COUNTER
@@ -580,7 +580,7 @@ Develop instant recognition and precise timing under pressure.
 |--------|-----------|----------|-------|
 | 1 | Proffer | Stand | Opening |
 | 2 | Rake | Stand | Disrupt |
-| 3 | Void quarter above head | **Stand still, right hand** | One-handed, high void |
+| 3 | Quarter above head | Void (step back), right hand | One-handed high cut while retreating |
 | 4 | **Sword waves/circles overhead** | Stand | **Dragon's Tail motion** |
 | 5 | (Transition) | Set in left foot | Advance during circle |
 | 6 | **Thrust to face** | Right hand and foot | **Lightly—one-handed thrust** |
