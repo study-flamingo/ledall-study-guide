@@ -368,7 +368,7 @@ Teaches all these qualities.
 |--------|-----------|----------|-------|
 | 1 | Proffer + Rake | Stand | Standard opening |
 | 2 | (Position) | Stand still | Stability for circles |
-| 3 | Void quarter above head (right hand) | Stand | One-handed, defensive high |
+| 3 | Quarter above head (right hand) | Void (step back) | One-handed high cut while retreating |
 | 4 | **Dragon's Tail** | Stand | Sword circles/waves overhead |
 | 5 | (Transition) | Set in left foot | Advance while circling |
 | 6 | **Thrust to face** | Right hand and foot (lightly) | High-line thrust |

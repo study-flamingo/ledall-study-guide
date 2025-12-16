@@ -134,10 +134,10 @@ Select version that:
 - Chambering thrust
 - Preparing real attack
 
-**Void During Spring:**
-- Spring + void back = safe probe
-- No commitment
-- Can retreat if needed
+**Spring While Voiding (Attacking While Retreating):**
+- Spring executed during the passing step back
+- Maintains offensive threat during retreat
+- Can continue retreat if needed
 - Maintains safety
 
 #### HAND POSITIONING DETAIL
@@ -525,8 +525,8 @@ If partner frequently guesses right:
 | 1 | Proffer | Stand | Draw attack |
 | 2 | Rake | Stand | Disrupt |
 | 3 | Quarter (full) | Stand still | First quarter |
-| 4 | Void above head | **Stand still** | High evasion |
-| 5 | Attack to leg | **Stand still** | Low strike |
+| 4 | Cut above head | Void (step back) | High cut while retreating |
+| 5 | Cut to leg | Stand or advance | Low-line follow-up |
 | 6 | Quarter | Void back right leg | Third quarter + retreat |
 | 7 | Stop Guard | Stand | Defensive position |
 

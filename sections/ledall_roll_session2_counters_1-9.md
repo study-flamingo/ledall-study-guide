@@ -14,7 +14,7 @@
 
 > "The First Counter establishes the foundational pattern for all Counters: proffer (draw attack) → defensive action (rake) → offensive response (quarters) → safety (void + quarter) → return to guard (stop). Master this structure before attempting complex Counters."[3]
 
-> "The high-low combination (void above head, attack leg) forces opponent to defend multiple lines simultaneously. They can't protect both targets adequately, creating openings."[5]
+> "The high-low combination (cut above head while voiding back, then attack to leg) works because you maintain offensive pressure while retreating to safety, then exploit the low line."[5]
 
 **Key Points:**
 - **Foundational Counter pattern** - all others build on this
@@ -37,10 +37,10 @@
 |--------|-----------|----------|-------|
 | 1 | Proffer | Stand | Bait opening, draw attack |
 | **OPPONENT** | Attacks proffer | Advances | Falls into trap |
-| 2 | Rake | Stand or slight void | Harassment cut to hands/arms |
+| 2 | Rake | Stand or slight retreat | Harassment cut to hands/arms |
 | 3 | Quarter (full) | Stand still | "Full" = committed cut |
-| 4 | Void above head | Stand | Defensive evasion high |
-| 5 | Attack to leg | Stand | Low-line strike |
+| 4 | Cut above head | Void (step back) | High cut while retreating |
+| 5 | Cut to leg | Stand or advance | Low-line follow-up strike |
 | 6 | Quarter | Void back right leg | Cut while retreating |
 | 7 | Stop Guard | Stand | Return to defensive position |
 
@@ -52,8 +52,8 @@
 
 **Phase 2: Offense (Steps 3-5)**
 - Quarter pressures
-- High void forces reaction
-- Leg attack exploits opening
+- High cut during void (retreat) maintains threat
+- Leg attack exploits opening created by high-low sequence
 
 **Phase 3: Safety (Steps 6-7)**
 - Void back creates distance
@@ -73,8 +73,8 @@ Appears in nearly all Counters with variations. Understanding it allows predicti
 - No hesitation between actions
 
 **Week 2: Add High-Low**
-- Void above head (defensive)
-- Attack to leg (offensive)
+- Cut above head while voiding back
+- Attack to leg (offensive follow-up)
 - Quick transition high→low
 - Partner observes if they could defend both
 
@@ -848,8 +848,8 @@ Rabett must genuinely displace. If blade doesn't move, your follow-up attacks wo
 | **OPPONENT** | Attacks | Advances | Takes bait |
 | 2 | Rake | Stand | Disrupt attack |
 | 3 | Quarter (full) | **Standing still** | Explicitly stable |
-| 4 | Void above head | Stand still | High defensive action |
-| 5 | Attack to leg | Stand still | Low offensive action |
+| 4 | Cut above head | Void (step back) | High cut while retreating |
+| 5 | Cut to leg | Stand or advance | Low-line follow-up |
 | 6 | Quarter | Void back right leg | Retreat while cutting |
 | 7 | Stop Guard | Stand | Defensive position |
 
@@ -1319,7 +1319,7 @@ Diagonal cuts appear across martial traditions because they work. The English cr
 
 #### PRACTITIONER TIPS
 
-> "The Seventh Counter introduces a mid-sequence void—you retreat before delivering the downright stroke. This teaches distance manipulation: void to draw opponent forward, downright as they pursue, thrust when they're committed."[3]
+> "The Seventh Counter introduces a mid-sequence void—you retreat (passing step back) before delivering the downright stroke. This teaches distance manipulation: the retreat may draw opponent forward, then the downright punishes their pursuit."[3]
 
 > "Notice 'lithely play a fore-thrust'—the quickness is emphasized. After the powerful downright, the quick thrust catches opponent during their reaction to the heavy strike."[5]
 
@@ -1332,8 +1332,8 @@ Diagonal cuts appear across martial traditions because they work. The English cr
 - Two voids total (mid-sequence + ending)
 
 **Tactical Purpose:**
-- Void draws opponent forward
-- Downright meets their advance
+- Void (retreat) creates space and may draw opponent forward
+- Downright meets their advance with power
 - Quick thrust exploits their reaction
 - Power-speed combination overwhelms
 - Multiple voids create safety
@@ -1481,7 +1481,7 @@ After powerful downright, thrust must be:
 
 #### COMMON MISTAKES
 
-- Weak mid-void that doesn't draw opponent
+- Weak mid-void (not retreating far enough)
 - Downright while standing instead of advancing
 - Heavy thrust instead of "lithely"
 - Pausing between downright and thrust
@@ -1499,8 +1499,8 @@ After powerful downright, thrust must be:
 - They overwhelm with forward momentum
 
 **Your Response:**
-- Mid-void baits their chase
-- Downright punishes pursuit
+- Mid-void (retreat) creates space; they may pursue
+- Downright punishes their pursuit
 - Thrust finishes while they're reeling
 - They learn: Don't chase blindly
 
@@ -2264,8 +2264,8 @@ George Silver: "The simple fight is the true fight."[7]
 | **OPPONENT** | Attacks | Advances | Takes bait |
 | 2 | Rake | Stand | Disrupt attack |
 | 3 | Quarter (full) | Stand still | Committed cut |
-| 4 | Void above head | **Stand still** | High defensive evasion |
-| 5 | Attack to leg | **Stand still** | Low-line strike |
+| 4 | Cut above head | Void (step back) | High cut while retreating |
+| 5 | Cut to leg | Stand or advance | Low-line follow-up strike |
 | 6 | Quarter | Void back right leg | Cut while retreating |
 | 7 | Stop Guard | Stand | Defensive position |
 
@@ -2740,7 +2740,7 @@ The Sixth Counter embodies this wisdom—minimal actions, maximum effect.
 
 > "The Seventh Counter combines power (downright stroke) with speed (lithely played fore-thrust). The standing still position between downright and thrust creates a momentary pause that can deceive the opponent about your next action."[3]
 
-> "Notice the pattern: void creates distance → downright closes while attacking → standing still resets → quick thrust exploits → safety sequence exits. This is distance manipulation at its finest."[5]
+> "Notice the pattern: void (retreat) creates distance → downright closes while attacking → standing still resets → quick thrust exploits → safety sequence exits. This is distance manipulation at its finest."[5]
 
 **Key Points:**
 - **Downright stroke** is signature technique
@@ -2751,7 +2751,7 @@ The Sixth Counter embodies this wisdom—minimal actions, maximum effect.
 - Longer sequence (10 steps)
 
 **Tactical Purpose:**
-- Initial void creates space
+- Initial void (passing step back) creates space
 - Downright reclaims space with power
 - Standing still creates uncertainty
 - Quick thrust capitalizes on confusion
