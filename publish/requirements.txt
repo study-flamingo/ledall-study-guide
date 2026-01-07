@@ -1,0 +1,12 @@
+# Markdown to PDF conversion tools
+markdown>=3.5.0
+xhtml2pdf>=0.2.13  # Pure Python PDF generation (works on Windows without GTK)
+
+# Optional: If you have Pandoc installed system-wide, you can use pypandoc
+# pypandoc>=1.11  # Requires system Pandoc installation
+
+# Optional: WeasyPrint (requires GTK+ on Windows - install separately if needed)
+# weasyprint>=60.0  # Better quality but needs GTK+ runtime on Windows
+
+# For enhanced markdown features
+pymdown-extensions>=10.0
