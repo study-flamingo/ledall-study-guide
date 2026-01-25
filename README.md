@@ -120,31 +120,62 @@ See **Appendix B** for a complete 12-week beginner program.
 
 ---
 
+## Building the PDF
+
+This repository includes tools to generate a professional print-ready PDF (172 pages) from the Markdown source.
+
+### Quick Build
+
+```bash
+# Install build tools (Pandoc + TinyTeX + LaTeX packages)
+./scripts/install-build-tools.sh
+
+# Generate the PDF
+./scripts/build-pdf.sh
+```
+
+The generated PDF includes:
+- Professional title page with historical Battle of Pavia image
+- Modern typography (Merriweather font)
+- Complete table of contents
+- Book-style formatting ready for hole-punching and binding
+
+For detailed installation instructions and manual build options, see **[BUILD.md](BUILD.md)**.
+
+---
+
 ## Project Structure
 
 ```
 ledall-study-guide/
 │
-├── ledall_roll_final_draft.md       # ← THE COMPLETE STUDY GUIDE (START HERE)
+├── Ledall_Longsword_manuscript.md              # ← THE COMPLETE STUDY GUIDE (START HERE)
+├── Ledall_Longsword_manuscript_for_pdf.md      # PDF-optimized version with metadata
+├── Ledall_Roll_Enhanced_Study_Guide_FINAL.pdf  # Generated PDF (172 pages)
 │
-├── drafts/                          # Outdated development drafts
-│   ├── ledall_guide_draft_01.md     # Earlier simple version
-│   └── ledall_guide_draft_02.md     # Enhanced version with research
+├── scripts/                         # Build automation
+│   ├── install-build-tools.sh       # Install Pandoc, TinyTeX, packages
+│   └── build-pdf.sh                 # Generate the PDF
 │
-├── sections/                        # Session-by-session work
-│   ├── ledall_roll_session1_chases.md
-│   ├── ledall_roll_session2_counters_1-9.md
-│   ├── ledall_roll_session3_counters_11-21.md
-│   ├── ledall_roll_session4_final.md
-│   └── ledall_roll_session4_special_techniques.md
+├── src/                             # Source assets
+│   └── img/
+│       └── battle_of_pavia.jpg      # Title page image
 │
-├── manuscript/                      # Source material
-│   └── ledall_modernization.csv     # Original manuscript transcript and modernization
+├── drafts/                          # Development versions
+│   ├── ledall_guide_draft_01.md
+│   ├── ledall_guide_draft_02.md
+│   └── sections/                    # Session-by-session work
 │
-├── sources.md                       # Complete bibliography
-├── overview.md                      # Project completion summary
+├── docs/                            # Documentation
+│   ├── sources.md                   # Complete bibliography
+│   ├── ROADMAP.md                   # Development roadmap
+│   └── v0-6-0_completion_summary.md # Version notes
+│
+├── BUILD.md                         # PDF build instructions
+├── README.md                        # This file
 ├── LICENSE.md                       # CC BY-SA 4.0 license
-└── README.md                        # This file
+├── CHANGELOG.md                     # Version history
+└── overview.md                      # Project summary
 ```
 
 **Note:** The final draft (`ledall_roll_final_draft.md`) contains all content from the drafts and sessions combined into one cohesive document. The other files are preserved for reference and to show the development process.

@@ -1,26 +1,29 @@
-# Virtual environment
-venv/
-env/
-ENV/
-publish/venv/
+# Build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
 
-# PDF outputs
-*.pdf
-publish/*.pdf
+# Temporary LaTeX files
+*.tex
 
-# Python cache
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
+# Temporary PDFs (keep only the FINAL version)
+*_TEST.pdf
+*_v*.pdf
+test*.pdf
 
-# IDE
+# Editor/IDE
 .vscode/
 .idea/
 *.swp
 *.swo
+*~
 
-# OS
+# OS files
 .DS_Store
 Thumbs.db
+desktop.ini
+
+# Claude Code
+.claude/
